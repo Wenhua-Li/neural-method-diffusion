@@ -1,0 +1,5 @@
+numerator,denominator,point,lower,upper,family_size,definition,inference_scope
+Mixed journals,Core EC conferences,2.7386213774216057,1.1353821432158282,8.531900765524766,24,DL-native plus substantive hybrid,"sensitivity definition; separate 24-cell family, not joint with narrow definition"
+Mixed journals,Core EC journals,2.819841353962006,1.2306953799643552,6.9693620066285025,24,DL-native plus substantive hybrid,"sensitivity definition; separate 24-cell family, not joint with narrow definition"
+SSCI (mixed conf.),Core EC conferences,2.5882389115312336,1.0279667422524565,7.85945446139621,24,DL-native plus substantive hybrid,"sensitivity definition; separate 24-cell family, not joint with narrow definition"
+SSCI (mixed conf.),Core EC journals,2.664998957811686,1.1142626542142282,6.420068027210885,24,DL-native plus substantive hybrid,"sensitivity definition; separate 24-cell family, not joint with narrow definition"

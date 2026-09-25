@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated paper."
+title: "Expert-calibrated language models reveal what keyword counts miss about neural-method diffusion: companion code and derived data"
+authors:
+  - family-names: "Li"
+    given-names: "Wenhua"
+  - family-names: "Wang"
+    given-names: "Rui"
+  - family-names: "Zhang"
+    given-names: "Tao"
+  - family-names: "Lu"
+    given-names: "Xin"
+date-released: 2026-09-25
+license: MIT
+version: "1.0.0"
+repository-code: "https://github.com/Wenhua-Li/neural-method-diffusion"
+notes: "First public release of the companion archive; manuscript title set by the responsible author on 2026-09-25. An archival DOI will be assigned when the manuscript version is fixed at acceptance."

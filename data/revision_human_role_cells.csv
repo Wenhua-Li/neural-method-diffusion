@@ -1,0 +1,25 @@
+group,component,stratum,N,n,k,point,lower,upper
+Core EC conferences,historical_human_hits,dl_native,72,33,29,63.27272727272727,50,68
+Core EC conferences,historical_human_hits,neuroevolution,110,4,0,0.0,0,88
+Core EC conferences,historical_human_hits,hybrid,235,7,0,0.0,0,144
+Core EC conferences,historical_human_hits,other,58,4,1,14.5,1,53
+Core EC conferences,new_human_nonhits,enriched,332,50,13,86.32,38,154
+Core EC conferences,new_human_nonhits,ordinary,3953,150,3,79.06,7,326
+Core EC journals,historical_human_hits,dl_native,86,46,45,84.1304347826087,75,85
+Core EC journals,historical_human_hits,neuroevolution,49,9,0,0.0,0,23
+Core EC journals,historical_human_hits,hybrid,86,7,2,24.571428571428573,2,71
+Core EC journals,historical_human_hits,other,40,8,1,5.0,1,26
+Core EC journals,new_human_nonhits,enriched,194,50,13,50.44,24,88
+Core EC journals,new_human_nonhits,ordinary,2716,150,6,108.64,23,307
+Mixed journals,historical_human_hits,dl_native,5193,40,40,5193.0,4377,5193
+Mixed journals,historical_human_hits,neuroevolution,106,8,0,0.0,0,59
+Mixed journals,historical_human_hits,hybrid,483,7,2,138.0,4,411
+Mixed journals,historical_human_hits,other,525,6,0,0.0,0,356
+Mixed journals,new_human_nonhits,enriched,2156,50,38,1638.56,1167,1963
+Mixed journals,new_human_nonhits,ordinary,18089,150,34,4100.173333333333,2396,6250
+SSCI (mixed conf.),historical_human_hits,dl_native,160,17,17,160.0,110,160
+SSCI (mixed conf.),historical_human_hits,neuroevolution,8,3,0,0.0,0,5
+SSCI (mixed conf.),historical_human_hits,hybrid,9,4,0,0.0,0,5
+SSCI (mixed conf.),historical_human_hits,other,12,3,0,0.0,0,9
+SSCI (mixed conf.),new_human_nonhits,enriched,88,50,38,66.88,54,75
+SSCI (mixed conf.),new_human_nonhits,ordinary,605,150,30,121.0,75,182

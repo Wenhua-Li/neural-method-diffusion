@@ -1,0 +1,3 @@
+# Byte-exact checkout is required: MANIFEST.json pins the SHA-256 of every
+# file in this package, so no line-ending conversion may ever rewrite them.
+* -text

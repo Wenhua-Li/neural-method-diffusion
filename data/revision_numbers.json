@@ -1,0 +1,47 @@
+{
+  "data": {
+    "canonical_records": 121332,
+    "standard_records": 118750,
+    "target_standard_records": 118599,
+    "unmapped_standard_records": 151,
+    "m1_historical_pool": 99322,
+    "m1_primary_eligible": 98429,
+    "m1_primary_observed": 98427,
+    "m1_empty_coded": 757,
+    "penetration_eligible": 98429,
+    "penetration_hits": 8464,
+    "gold_m1": 300,
+    "gold_penetration": 300,
+    "recall_union": 1195,
+    "recall_random_non_enriched": 561,
+    "m1_primary_truncated": 3595,
+    "pen_hit_truncated": 809
+  },
+  "topic_support": {
+    "cells": 16,
+    "core_included": 632,
+    "mixed_included": 5132,
+    "core_total": 3171,
+    "mixed_total": 26552,
+    "core_standardized_pct": 7.0584275859309615,
+    "mixed_standardized_pct": 26.906540088479037
+  },
+  "primary_role_window": "2021-2025 (SSCI 2021-2023)",
+  "uncertainty_family": 24,
+  "uncertainty_method": "hypergeometric inversion and Bonferroni; conditional SRS working design, historical seed reuse disclosed",
+  "m1_method": "two-stage difference point diagnostic; no quality claim",
+  "nonempty_primary": true,
+  "notes": "No API, raw texts or database used by this program.",
+  "human_followup": {
+    "role_annotations": 800,
+    "m1_annotations": 200,
+    "distinct_papers": 991,
+    "role_family": 24,
+    "recent_m1_family": 2,
+    "role_target": "expert-reference labels in both hit and non-hit populations; historical hit-stage working design retained",
+    "m1_target": "recent core endpoint; not a new temporal trend interval",
+    "fine_kappa_new_m1": 0.5705541133865334,
+    "all_role_ratio_lowers_above_one": true,
+    "all_role_ratio_lowers_above_three": false
+  }
+}

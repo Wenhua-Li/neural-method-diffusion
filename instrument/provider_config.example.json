@@ -1,0 +1,10 @@
+{
+  "documentation_only": true,
+  "provider_url": null,
+  "model_alias": "USER_SUPPLIED_MODEL_ALIAS",
+  "credential_environment_variable": "USER_SUPPLIED_ENV_VAR_NAME",
+  "temperature": null,
+  "max_output_tokens": 4096,
+  "immutable_model_version": null,
+  "note": "No request client is supplied or called. Document actual provider settings for any independently authorized future coding run."
+}

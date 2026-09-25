@@ -1,0 +1,12 @@
+{
+  "m1": {
+    "source": "exploration/001_semantic_pilot/run_pilot.py",
+    "source_sha256": "bdc9dd20bde5117cbbf8eb246500892353d1e66e1e2ceec7748bf824746ae42d",
+    "extract": "AST literal PROMPT_TEMPLATE and exact _extract_json/_validate functions"
+  },
+  "penetration": {
+    "source": "exploration/005_fortress/deconfound.py",
+    "source_sha256": "aafd9524975c03563f68120720ee7390e82f9b03fc40e4070f77669d0d54e76e",
+    "extract": "AST literal PROMPT_TEMPLATE and exact _extract_json/_validate functions"
+  }
+}

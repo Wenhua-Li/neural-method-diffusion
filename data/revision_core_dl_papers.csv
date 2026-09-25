@@ -1,0 +1,204 @@
+corpus_id,doi,year,venue_abbr,group,topic
+18594,10.1109/cec.2019.8790295,2019,CEC,Core EC conferences,Scheduling & routing
+18722,10.1109/cec.2019.8790001,2019,CEC,Core EC conferences,Other/unclassified
+18826,10.1109/cec.2019.8790060,2019,CEC,Core EC conferences,Medical & bio
+18962,10.1109/cec.2018.8477907,2018,CEC,Core EC conferences,Other/unclassified
+19034,10.1109/cec.2018.8477979,2018,CEC,Core EC conferences,Other/unclassified
+19048,10.1109/cec.2018.8477886,2018,CEC,Core EC conferences,Missing controlled terms
+19630,10.1109/cec.2016.7743955,2016,CEC,Core EC conferences,Image & vision
+19662,10.1109/cec.2016.7744412,2016,CEC,Core EC conferences,Other/unclassified
+19732,10.1109/cec.2016.7743945,2016,CEC,Core EC conferences,Other/unclassified
+20003,10.1109/cec.2016.7743903,2016,CEC,Core EC conferences,Image & vision
+21366,10.1109/cec65147.2025.11043078,2025,CEC,Core EC conferences,Image & vision
+21370,10.1109/cec65147.2025.11043077,2025,CEC,Core EC conferences,Scheduling & routing
+21382,10.1109/cec65147.2025.11043025,2025,CEC,Core EC conferences,Other/unclassified
+21459,10.1109/cec65147.2025.11042950,2025,CEC,Core EC conferences,Other/unclassified
+21502,10.1109/cec65147.2025.11043093,2025,CEC,Core EC conferences,Image & vision
+21552,10.1109/cec60901.2024.10612108,2024,CEC,Core EC conferences,NLP & text
+21558,10.1109/cec60901.2024.10612104,2024,CEC,Core EC conferences,Other/unclassified
+21612,10.1109/cec60901.2024.10612130,2024,CEC,Core EC conferences,Medical & bio
+21662,10.1109/cec60901.2024.10612041,2024,CEC,Core EC conferences,Medical & bio
+21738,10.1109/cec60901.2024.10611953,2024,CEC,Core EC conferences,Other/unclassified
+21750,10.1109/cec60901.2024.10611948,2024,CEC,Core EC conferences,Medical & bio
+21763,10.1109/cec60901.2024.10611988,2024,CEC,Core EC conferences,Image & vision
+21771,10.1109/cec60901.2024.10612089,2024,CEC,Core EC conferences,Other/unclassified
+21772,10.1109/cec60901.2024.10611771,2024,CEC,Core EC conferences,Other/unclassified
+21778,10.1109/cec60901.2024.10612021,2024,CEC,Core EC conferences,Other/unclassified
+21799,10.1109/cec60901.2024.10611803,2024,CEC,Core EC conferences,Missing controlled terms
+21840,10.1109/cec60901.2024.10612083,2024,CEC,Core EC conferences,Medical & bio
+21942,10.1109/cec53210.2023.10254068,2023,CEC,Core EC conferences,Medical & bio
+22050,10.1109/cec55065.2022.9870357,2022,CEC,Core EC conferences,Other/unclassified
+22143,10.1109/cec55065.2022.9870225,2022,CEC,Core EC conferences,Other/unclassified
+22169,10.1109/cec55065.2022.9870217,2022,CEC,Core EC conferences,Control & robotics
+22174,10.1109/cec55065.2022.9870215,2022,CEC,Core EC conferences,Other/unclassified
+22186,10.1109/cec55065.2022.9870244,2022,CEC,Core EC conferences,Security & anomaly
+22312,10.1109/cec45853.2021.9505001,2021,CEC,Core EC conferences,Other/unclassified
+22447,10.1109/cec45853.2021.9504864,2021,CEC,Core EC conferences,Scheduling & routing
+22813,10.1109/cec48606.2020.9185838,2020,CEC,Core EC conferences,Image & vision
+22885,10.1109/cec48606.2020.9185490,2020,CEC,Core EC conferences,Image & vision
+22893,10.1109/cec48606.2020.9185631,2020,CEC,Core EC conferences,Other/unclassified
+22923,10.1109/cec48606.2020.9185808,2020,CEC,Core EC conferences,Medical & bio
+24235,10.1007/978-981-96-3538-2_15,2025,EMO,Core EC conferences,Other/unclassified
+24297,10.1007/978-3-031-27250-9_11,2023,EMO,Core EC conferences,Other/unclassified
+57663,10.1007/978-3-031-90065-5_22,2025,EVOAPP,Core EC conferences,NLP & text
+57780,10.1007/978-3-031-02462-7_32,2022,EVOAPP,Core EC conferences,Other/unclassified
+57791,10.1007/978-3-031-30229-9_32,2023,EVOAPP,Core EC conferences,Image & vision
+57871,10.1007/978-3-030-72699-7_30,2021,EVOAPP,Core EC conferences,Image & vision
+57988,10.1007/978-3-319-77538-8_6,2018,EVOAPP,Core EC conferences,Image & vision
+59157,10.1007/s12065-024-00990-z,2025,EVOINT,Core EC journals,Image & vision
+59168,10.1007/s12065-024-01010-w,2025,EVOINT,Core EC journals,Other/unclassified
+59171,10.1007/s12065-024-01000-y,2025,EVOINT,Core EC journals,Other/unclassified
+59177,10.1007/s12065-024-00985-w,2025,EVOINT,Core EC journals,Other/unclassified
+59179,10.1007/s12065-025-01111-0,2025,EVOINT,Core EC journals,Other/unclassified
+59195,10.1007/s12065-025-01102-1,2025,EVOINT,Core EC journals,Other/unclassified
+59208,10.1007/s12065-024-00993-w,2025,EVOINT,Core EC journals,Other/unclassified
+59231,10.1007/s12065-024-00939-2,2024,EVOINT,Core EC journals,Missing controlled terms
+59270,10.1007/s12065-024-01009-3,2025,EVOINT,Core EC journals,Other/unclassified
+59310,10.1007/s12065-023-00850-2,2024,EVOINT,Core EC journals,Image & vision
+59314,10.1007/s12065-022-00709-y,2024,EVOINT,Core EC journals,Other/unclassified
+59322,10.1007/s12065-024-00989-6,2025,EVOINT,Core EC journals,Scheduling & routing
+59332,10.1007/s12065-025-01113-y,2025,EVOINT,Core EC journals,Other/unclassified
+59348,10.1007/s12065-024-00954-3,2024,EVOINT,Core EC journals,NLP & text
+59359,10.1007/s12065-023-00900-9,2024,EVOINT,Core EC journals,Other/unclassified
+59365,10.1007/s12065-023-00845-z,2024,EVOINT,Core EC journals,Other/unclassified
+59372,10.1007/s12065-022-00728-9,2024,EVOINT,Core EC journals,Other/unclassified
+59406,10.1007/s12065-023-00885-5,2024,EVOINT,Core EC journals,Scheduling & routing
+59410,10.1007/s12065-024-00973-0,2024,EVOINT,Core EC journals,Image & vision
+59421,10.1007/s12065-024-00944-5,2024,EVOINT,Core EC journals,Image & vision
+59430,10.1007/s12065-022-00731-0,2024,EVOINT,Core EC journals,Other/unclassified
+59440,10.1007/s12065-025-01053-7,2025,EVOINT,Core EC journals,Forecasting & prediction
+59481,10.1007/s12065-023-00851-1,2024,EVOINT,Core EC journals,NLP & text
+59482,10.1007/s12065-022-00775-2,2024,EVOINT,Core EC journals,Image & vision
+59483,10.1007/s12065-025-01068-0,2025,EVOINT,Core EC journals,Other/unclassified
+59484,10.1007/s12065-023-00828-0,2024,EVOINT,Core EC journals,NLP & text
+59487,10.1007/s12065-023-00837-z,2024,EVOINT,Core EC journals,Fault/prognosis machinery
+59500,10.1007/s12065-025-01036-8,2025,EVOINT,Core EC journals,Image & vision
+59513,10.1007/s12065-023-00817-3,2024,EVOINT,Core EC journals,Image & vision
+59515,10.1007/s12065-024-00961-4,2024,EVOINT,Core EC journals,Fault/prognosis machinery
+59552,10.1007/s12065-022-00743-w,2023,EVOINT,Core EC journals,Image & vision
+59555,10.1007/s12065-024-00951-6,2024,EVOINT,Core EC journals,Other/unclassified
+59564,10.1007/s12065-021-00665-z,2023,EVOINT,Core EC journals,Image & vision
+59565,10.1007/s12065-024-00908-9,2024,EVOINT,Core EC journals,Other/unclassified
+59584,10.1007/s12065-020-00452-2,2023,EVOINT,Core EC journals,NLP & text
+59587,10.1007/s12065-022-00792-1,2023,EVOINT,Core EC journals,Other/unclassified
+59595,10.1007/s12065-023-00815-5,2023,EVOINT,Core EC journals,Forecasting & prediction
+59604,10.1007/s12065-023-00842-2,2023,EVOINT,Core EC journals,Other/unclassified
+59606,10.1007/s12065-022-00729-8,2023,EVOINT,Core EC journals,Other/unclassified
+59625,10.1007/s12065-022-00774-3,2023,EVOINT,Core EC journals,Other/unclassified
+59627,10.1007/s12065-022-00733-y,2023,EVOINT,Core EC journals,Image & vision
+59650,10.1007/s12065-022-00777-0,2024,EVOINT,Core EC journals,Other/unclassified
+59660,10.1007/s12065-023-00897-1,2024,EVOINT,Core EC journals,Other/unclassified
+59677,10.1007/s12065-021-00694-8,2023,EVOINT,Core EC journals,Other/unclassified
+59681,10.1007/s12065-020-00470-0,2023,EVOINT,Core EC journals,Forecasting & prediction
+59692,10.1007/s12065-022-00744-9,2023,EVOINT,Core EC journals,Other/unclassified
+59695,10.1007/s12065-021-00625-7,2022,EVOINT,Core EC journals,Image & vision
+59696,10.1007/s12065-021-00600-2,2022,EVOINT,Core EC journals,Other/unclassified
+59698,10.1007/s12065-022-00800-4,2024,EVOINT,Core EC journals,Other/unclassified
+59699,10.1007/s12065-022-00770-7,2023,EVOINT,Core EC journals,Other/unclassified
+59705,10.1007/s12065-023-00829-z,2023,EVOINT,Core EC journals,Control & robotics
+59711,10.1007/s12065-022-00781-4,2023,EVOINT,Core EC journals,Medical & bio
+59715,10.1007/s12065-022-00719-w,2023,EVOINT,Core EC journals,Image & vision
+59738,10.1007/s12065-022-00811-1,2023,EVOINT,Core EC journals,Image & vision
+59769,10.1007/s12065-022-00798-9,2023,EVOINT,Core EC journals,Other/unclassified
+59791,10.1007/s12065-021-00626-6,2022,EVOINT,Core EC journals,Other/unclassified
+59810,10.1007/s12065-021-00679-7,2023,EVOINT,Core EC journals,Other/unclassified
+59883,10.1007/s12065-020-00367-y,2021,EVOINT,Core EC journals,Image & vision
+59884,10.1007/s12065-020-00537-y,2022,EVOINT,Core EC journals,Image & vision
+59913,10.1007/s12065-021-00598-7,2022,EVOINT,Core EC journals,NLP & text
+59921,10.1007/s12065-020-00522-5,2021,EVOINT,Core EC journals,Security & anomaly
+59933,10.1007/s12065-021-00696-6,2023,EVOINT,Core EC journals,Other/unclassified
+59974,10.1007/s12065-020-00454-0,2021,EVOINT,Core EC journals,Medical & bio
+60006,10.1007/s12065-019-00227-4,2022,EVOINT,Core EC journals,NLP & text
+60009,10.1007/s12065-019-00284-9,2021,EVOINT,Core EC journals,"IoT, networks & systems"
+60012,10.1007/s12065-020-00458-w,2021,EVOINT,Core EC journals,Image & vision
+60015,10.1007/s12065-019-00346-y,2021,EVOINT,Core EC journals,Medical & bio
+60095,10.1007/s12065-018-0167-z,2020,EVOINT,Core EC journals,Image & vision
+60144,10.1007/s12065-019-00278-7,2019,EVOINT,Core EC journals,Scheduling & routing
+65393,10.1145/3377930.3390224,2020,GECCO,Core EC conferences,Other/unclassified
+65683,10.1145/3319619.3326784,2019,GECCO,Core EC conferences,Other/unclassified
+65706,10.1145/3319619.3326887,2019,GECCO,Core EC conferences,Image & vision
+65906,10.1145/3319619.3326886,2019,GECCO,Core EC conferences,Other/unclassified
+65931,10.1145/3321707.3321845,2019,GECCO,Core EC conferences,Other/unclassified
+66262,10.1145/3205651.3208203,2018,GECCO,Core EC conferences,Other/unclassified
+67729,10.1145/3712255.3735095,2025,GECCO,Core EC conferences,NLP & text
+67835,10.1145/3712255.3734367,2025,GECCO,Core EC conferences,Other/unclassified
+67891,10.1145/3712255.3726575,2025,GECCO,Core EC conferences,Control & robotics
+67972,10.1145/3712255.3726609,2025,GECCO,Core EC conferences,Scheduling & routing
+68204,10.1145/3712255.3734292,2025,GECCO,Core EC conferences,Other/unclassified
+68379,10.1145/3638530.3654304,2024,GECCO,Core EC conferences,Missing controlled terms
+68452,10.1145/3638529.3654086,2024,GECCO,Core EC conferences,Missing controlled terms
+68486,10.1145/3638530.3664181,2024,GECCO,Core EC conferences,Missing controlled terms
+68505,10.1145/3638530.3654191,2024,GECCO,Core EC conferences,Other/unclassified
+68625,10.1145/3638530.3654393,2024,GECCO,Core EC conferences,Missing controlled terms
+68812,10.1145/3638530.3664120,2024,GECCO,Core EC conferences,Other/unclassified
+68846,10.1145/3638530.3664128,2024,GECCO,Core EC conferences,Other/unclassified
+68871,10.1145/3583133.3590656,2023,GECCO,Core EC conferences,Missing controlled terms
+69091,10.1145/3583131.3590378,2023,GECCO,Core EC conferences,Other/unclassified
+69230,10.1145/3583133.3590729,2023,GECCO,Core EC conferences,Other/unclassified
+69486,10.1145/3520304.3533964,2022,GECCO,Core EC conferences,Other/unclassified
+69818,10.1145/3512290.3528834,2022,GECCO,Core EC conferences,Other/unclassified
+69854,10.1145/3520304.3528912,2022,GECCO,Core EC conferences,Security & anomaly
+70179,10.1145/3449726.3463132,2021,GECCO,Core EC conferences,Medical & bio
+70893,10.1007/978-981-95-0982-9_15,2025,ICSI,Core EC conferences,NLP & text
+70903,10.1007/978-981-95-0985-0_22,2025,ICSI,Core EC conferences,Other/unclassified
+70921,10.1007/978-981-95-0982-9_16,2025,ICSI,Core EC conferences,Medical & bio
+70930,10.1007/978-981-95-0985-0_15,2025,ICSI,Core EC conferences,Control & robotics
+70931,10.1007/978-981-95-0982-9_18,2025,ICSI,Core EC conferences,Image & vision
+70932,10.1007/978-981-95-0982-9_17,2025,ICSI,Core EC conferences,NLP & text
+70934,10.1007/978-981-95-0985-0_7,2025,ICSI,Core EC conferences,Image & vision
+70955,10.1007/978-981-97-7184-4_11,2024,ICSI,Core EC conferences,Other/unclassified
+70966,10.1007/978-981-97-7184-4_17,2024,ICSI,Core EC conferences,Missing controlled terms
+70976,10.1007/978-981-97-7184-4_18,2024,ICSI,Core EC conferences,Other/unclassified
+71023,10.1007/978-981-97-7184-4_14,2024,ICSI,Core EC conferences,Other/unclassified
+71038,10.1007/978-981-97-7184-4_19,2024,ICSI,Core EC conferences,Other/unclassified
+71126,10.1007/978-3-031-09726-3_13,2022,ICSI,Core EC conferences,Other/unclassified
+71135,10.1007/978-3-031-09726-3_29,2022,ICSI,Core EC conferences,Other/unclassified
+71137,10.1007/978-3-031-09726-3_9,2022,ICSI,Core EC conferences,Other/unclassified
+71144,10.1007/978-3-031-09726-3_20,2022,ICSI,Core EC conferences,Medical & bio
+71150,10.1007/978-3-031-09726-3_15,2022,ICSI,Core EC conferences,Other/unclassified
+71162,10.1007/978-3-031-09726-3_10,2022,ICSI,Core EC conferences,Medical & bio
+71195,10.1007/978-3-031-09726-3_11,2022,ICSI,Core EC conferences,Scheduling & routing
+71241,10.1007/978-3-030-53956-6_50,2020,ICSI,Core EC conferences,Other/unclassified
+71273,10.1007/978-3-030-53956-6_53,2020,ICSI,Core EC conferences,Medical & bio
+71275,10.1007/978-3-030-53956-6_52,2020,ICSI,Core EC conferences,Other/unclassified
+71327,10.1007/978-3-030-26369-0_1,2019,ICSI,Core EC conferences,Other/unclassified
+71364,10.1007/978-3-030-26354-6_11,2019,ICSI,Core EC conferences,Image & vision
+71390,10.1007/978-3-030-26354-6_27,2019,ICSI,Core EC conferences,Other/unclassified
+71398,10.1007/978-3-030-26354-6_10,2019,ICSI,Core EC conferences,Forecasting & prediction
+71424,10.1007/978-3-319-93803-5_56,2018,ICSI,Core EC conferences,Control & robotics
+71438,10.1007/978-3-319-93818-9_50,2018,ICSI,Core EC conferences,Missing controlled terms
+71444,10.1007/978-3-319-93818-9_32,2018,ICSI,Core EC conferences,Other/unclassified
+71460,10.1007/978-3-319-93818-9_52,2018,ICSI,Core EC conferences,Other/unclassified
+71498,10.1007/978-3-319-93818-9_51,2018,ICSI,Core EC conferences,Other/unclassified
+71503,10.1007/978-3-319-93803-5_51,2018,ICSI,Core EC conferences,Other/unclassified
+71514,10.1007/978-3-319-93803-5_58,2018,ICSI,Core EC conferences,Other/unclassified
+71533,10.1007/978-3-319-93818-9_53,2018,ICSI,Core EC conferences,Image & vision
+71544,10.1007/978-3-319-93818-9_10,2018,ICSI,Core EC conferences,Scheduling & routing
+71547,10.1007/978-3-319-93803-5_36,2018,ICSI,Core EC conferences,Other/unclassified
+71551,10.1007/978-3-319-93803-5_35,2018,ICSI,Core EC conferences,Other/unclassified
+71575,10.1007/978-3-319-93803-5_57,2018,ICSI,Core EC conferences,Other/unclassified
+71998,10.1007/978-3-319-20472-7_1,2015,ICSI,Core EC conferences,Other/unclassified
+90985,10.1007/s12293-025-00436-8,2025,MEMETIC,Core EC journals,NLP & text
+91006,10.1007/s12293-025-00474-2,2025,MEMETIC,Core EC journals,Other/unclassified
+91015,10.1007/s12293-025-00463-5,2025,MEMETIC,Core EC journals,Image & vision
+91018,10.1007/s12293-025-00443-9,2025,MEMETIC,Core EC journals,Image & vision
+91020,10.1007/s12293-025-00476-0,2025,MEMETIC,Core EC journals,Image & vision
+91040,10.1007/s12293-025-00457-3,2025,MEMETIC,Core EC journals,Other/unclassified
+91051,10.1007/s12293-024-00423-5,2024,MEMETIC,Core EC journals,Other/unclassified
+91075,10.1007/s12293-024-00425-3,2024,MEMETIC,Core EC journals,Security & anomaly
+91081,10.1007/s12293-023-00395-y,2023,MEMETIC,Core EC journals,Other/unclassified
+91161,10.1007/s12293-021-00345-6,2021,MEMETIC,Core EC journals,Other/unclassified
+92408,10.1007/978-3-031-70068-2_12,2024,PPSN,Core EC conferences,Other/unclassified
+92488,10.1007/978-3-031-14714-2_1,2022,PPSN,Core EC conferences,Other/unclassified
+92507,10.1007/978-3-031-14714-2_31,2022,PPSN,Core EC conferences,Other/unclassified
+92588,10.1007/978-3-030-58112-1_34,2020,PPSN,Core EC conferences,Image & vision
+92616,10.1007/978-3-030-58112-1_4,2020,PPSN,Core EC conferences,Other/unclassified
+100418,10.1016/j.swevo.2025.101894,2025,SWEVC,Core EC journals,Other/unclassified
+100457,10.1016/j.swevo.2025.102136,2025,SWEVC,Core EC journals,Other/unclassified
+100611,10.1016/j.swevo.2025.101859,2025,SWEVC,Core EC journals,Other/unclassified
+100950,10.1016/j.swevo.2024.101767,2024,SWEVC,Core EC journals,Other/unclassified
+101119,10.1016/j.swevo.2024.101764,2024,SWEVC,Core EC journals,Scheduling & routing
+101286,10.1016/j.swevo.2024.101609,2024,SWEVC,Core EC journals,Other/unclassified
+104162,10.1109/tevc.2024.3439690,2025,TEVC,Core EC journals,Other/unclassified
+104212,10.1109/tevc.2025.3589640,2025,TEVC,Core EC journals,Other/unclassified
+104316,10.1109/tevc.2024.3435421,2025,TEVC,Core EC journals,Other/unclassified

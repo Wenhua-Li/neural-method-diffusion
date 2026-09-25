@@ -1,0 +1,5 @@
+numerator,denominator,point,lower,upper,assumptions
+Mixed journals,Core EC conferences,12.433576623555867,0.629798419257635,38.70850124284423,same predeclared 24-cell family; SRS working design; missed labels remain model-based
+Mixed journals,Core EC journals,4.032176825448874,0.9131212169527412,17.191128493145527,same predeclared 24-cell family; SRS working design; missed labels remain model-based
+SSCI (mixed conf.),Core EC conferences,15.186154504432379,0.49208241103354333,54.13690476190476,same predeclared 24-cell family; SRS working design; missed labels remain model-based
+SSCI (mixed conf.),Core EC journals,4.924830731685813,0.7134519177320733,24.043154761904763,same predeclared 24-cell family; SRS working design; missed labels remain model-based

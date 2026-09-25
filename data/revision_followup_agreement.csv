@@ -1,0 +1,2 @@
+task,n,accuracy,fine_kappa,binary_accuracy,binary_kappa,scope
+m1_followup,200,0.665,0.5705541133865334,0.84,0.6506550218340608,"unweighted recent-core validation sample, not corpus-wide accuracy"

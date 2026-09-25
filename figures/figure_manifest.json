@@ -1,0 +1,19 @@
+{
+  "figures": [
+    "fig1_true_penetration",
+    "fig2_domestication",
+    "fig3_method_dev",
+    "fig4_penetrators",
+    "supp_fig1_coverage",
+    "supp_fig2_calibration",
+    "supp_fig3_recall",
+    "supp_fig4_venues",
+    "supp_fig5_robustness",
+    "supp_fig6_contributions",
+    "supp_fig7_validation",
+    "supp_fig8_missingness"
+  ],
+  "minimum_requested_font_pt": 8,
+  "output_width_inches": 6.4,
+  "claim": "visual QA must inspect final embedded size"
+}

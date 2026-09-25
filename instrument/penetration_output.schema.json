@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Historical neural-network role instructed response shape",
+  "description": "The instructed JSON shape; reason word count and semantic correctness require separate checks. The frozen parser truncates reasons to 200 characters.",
+  "type": "object", "additionalProperties": false,
+  "required": ["label", "reason"],
+  "properties": {
+    "label": {"enum": ["dl_native", "neuroevolution", "hybrid", "other"]},
+    "reason": {"type": "string", "description": "Prompt requests at most 20 words."}
+  }
+}

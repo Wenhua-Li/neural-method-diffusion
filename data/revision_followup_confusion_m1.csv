@@ -1,0 +1,9 @@
+human_label,apply,benchmark,hybrid,improve,other,propose_new,review,theory
+apply,18,0,3,4,0,13,0,0
+benchmark,7,7,0,7,0,0,0,1
+hybrid,1,0,13,0,0,10,0,0
+improve,0,0,1,22,0,5,0,0
+other,2,0,0,0,0,0,1,0
+propose_new,3,0,2,6,1,56,0,0
+review,0,0,0,0,0,0,4,0
+theory,0,0,0,0,0,0,0,13

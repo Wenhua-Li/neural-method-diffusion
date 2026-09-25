@@ -1,0 +1,18 @@
+{
+  "canonical_records": 121332,
+  "standard_records": 118750,
+  "target_standard_records": 118599,
+  "unmapped_standard_records": 151,
+  "m1_historical_pool": 99322,
+  "m1_primary_eligible": 98429,
+  "m1_primary_observed": 98427,
+  "m1_empty_coded": 757,
+  "penetration_eligible": 98429,
+  "penetration_hits": 8464,
+  "gold_m1": 300,
+  "gold_penetration": 300,
+  "recall_union": 1195,
+  "recall_random_non_enriched": 561,
+  "m1_primary_truncated": 3595,
+  "pen_hit_truncated": 809
+}

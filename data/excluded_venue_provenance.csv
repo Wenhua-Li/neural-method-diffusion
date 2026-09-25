@@ -1,0 +1,152 @@
+corpus_id,year,venue_abbr,source,abstract_status
+123,2009,OTHER,SAE Technical Papers,nonempty
+124,2008,OTHER,SAE Technical Papers,nonempty
+125,2006,OTHER,SAE Technical Papers,nonempty
+126,2004,OTHER,SAE Technical Papers,nonempty
+127,2005,OTHER,SAE Technical Papers,nonempty
+128,2003,OTHER,SAE Technical Papers,nonempty
+129,2002,OTHER,SAE Technical Papers,nonempty
+130,1999,OTHER,SAE Technical Papers,nonempty
+131,1975,OTHER,SAE Technical Papers,nonempty
+15711,2013,OTHER,Advanced Materials Research,nonempty
+15716,2013,OTHER,International Journal of Computational Intelligence Systems,nonempty
+15723,2013,OTHER,International Journal on Artificial Intelligence Tools,nonempty
+15746,2010,OTHER,Elektrotehniski Vestnik/Electrotechnical Review,nonempty
+15747,2009,OTHER,Frontiers of Computer Science in China,nonempty
+18350,2019,OTHER,Applied Intelligence,nonempty
+18357,2018,OTHER,Computers and Industrial Engineering,nonempty
+18359,2019,OTHER,Engineering Optimization,nonempty
+18366,2019,OTHER,Energies,nonempty
+18367,2018,OTHER,Applied Mathematical Modelling,nonempty
+18372,2019,OTHER,Energy Conversion and Management,nonempty
+18373,2018,OTHER,Egyptian Informatics Journal,nonempty
+18374,2016,OTHER,Advances in Engineering Software,nonempty
+18377,2018,OTHER,Computational Intelligence,nonempty
+18378,2016,OTHER,Journal of Systems Engineering and Electronics,nonempty
+18379,2015,OTHER,Journal of Intelligent and Fuzzy Systems,nonempty
+18383,2014,OTHER,Applied Mechanics and Materials,nonempty
+18384,2015,OTHER,Applied Mathematics and Computation,nonempty
+18386,2016,OTHER,European Journal of Operational Research,nonempty
+18387,2014,OTHER,Applied Mechanics and Materials,nonempty
+18392,2014,OTHER,Engineering Optimization,nonempty
+21137,2026,OTHER,Applied Mathematical Modelling,nonempty
+21140,2025,OTHER,Knowledge-Based Systems,nonempty
+21141,2026,OTHER,Journal of Bionic Engineering,nonempty
+21142,2025,OTHER,Journal of Supercomputing,nonempty
+21144,2026,OTHER,Cluster Computing,nonempty
+21146,2025,OTHER,Nondestructive Testing and Evaluation,nonempty
+21147,2025,OTHER,"IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",nonempty
+21151,2026,OTHER,Artificial Intelligence Review,nonempty
+21152,2025,OTHER,Journal of Supercomputing,nonempty
+21154,2026,OTHER,Biomimetics,nonempty
+21156,2024,OTHER,International Journal of Computational Intelligence Systems,nonempty
+21157,2026,OTHER,Intelligent Systems with Applications,nonempty
+21159,2026,OTHER,Cluster Computing,nonempty
+21161,2025,OTHER,Cluster Computing,nonempty
+21163,2025,OTHER,CMES - Computer Modeling in Engineering and Sciences,nonempty
+21166,2026,OTHER,PeerJ Computer Science,nonempty
+21169,2025,OTHER,Engineering Applications of Artificial Intelligence,nonempty
+21171,2026,OTHER,Engineering Applications of Artificial Intelligence,nonempty
+21172,2025,OTHER,Evolving Systems,nonempty
+21175,2025,OTHER,CMES - Computer Modeling in Engineering and Sciences,nonempty
+21179,2025,OTHER,Cluster Computing,nonempty
+21180,2025,OTHER,Biomimetics,nonempty
+21181,2026,OTHER,Systems and Soft Computing,nonempty
+21182,2025,OTHER,Journal of Big Data,nonempty
+21184,2026,OTHER,Energy,nonempty
+21186,2025,OTHER,Artificial Intelligence Review,nonempty
+21187,2025,OTHER,Results in Engineering,nonempty
+21190,2024,OTHER,Knowledge-Based Systems,nonempty
+21191,2024,OTHER,Engineering Structures,nonempty
+21193,2025,OTHER,Cluster Computing,nonempty
+21194,2024,OTHER,Knowledge-Based Systems,nonempty
+21195,2025,OTHER,Neurocomputing,nonempty
+21196,2025,OTHER,Engineering Applications of Artificial Intelligence,nonempty
+21200,2024,OTHER,Applied Sciences (Switzerland),nonempty
+21202,2024,OTHER,Applied Sciences (Switzerland),nonempty
+21203,2025,OTHER,Discover Internet of Things,nonempty
+21205,2023,OTHER,Mathematical Biosciences and Engineering,nonempty
+21207,2023,OTHER,IFIP Advances in Information and Communication Technology,nonempty
+21208,2024,OTHER,Artificial Intelligence Review,nonempty
+21209,2024,OTHER,Journal of Bionic Engineering,nonempty
+21211,2026,OTHER,Results in Engineering,nonempty
+21212,2025,OTHER,Cluster Computing,nonempty
+21218,2025,OTHER,Artificial Intelligence Review,nonempty
+21222,2023,OTHER,Knowledge-Based Systems,nonempty
+21226,2023,OTHER,Alexandria Engineering Journal,nonempty
+21227,2023,OTHER,Steel and Composite Structures,nonempty
+21228,2024,OTHER,International Journal for Numerical and Analytical Methods in Geomechanics,nonempty
+21231,2024,OTHER,Computers in Biology and Medicine,nonempty
+21236,2023,OTHER,International Journal of Computational Intelligence Systems,nonempty
+21237,2024,OTHER,Cluster Computing,nonempty
+21244,2023,OTHER,Applied Mathematical Modelling,nonempty
+21248,2022,OTHER,Journal of Ambient Intelligence and Humanized Computing,nonempty
+21250,2024,OTHER,Cluster Computing,nonempty
+21251,2022,OTHER,ISA Transactions,nonempty
+21252,2024,OTHER,Computers in Biology and Medicine,nonempty
+21253,2023,OTHER,Knowledge-Based Systems,nonempty
+21254,2023,OTHER,Journal of Computational Design and Engineering,nonempty
+21255,2023,OTHER,Neural Computing and Applications,nonempty
+21256,2021,OTHER,Complexity,nonempty
+21257,2021,OTHER,Procedia Computer Science,nonempty
+21259,2021,OTHER,Applied Intelligence,nonempty
+21260,2023,OTHER,International Journal of Computational Intelligence Systems,nonempty
+21262,2024,OTHER,Underground Space (new),nonempty
+21267,2023,OTHER,PeerJ Computer Science,nonempty
+21268,2023,OTHER,Computers in Biology and Medicine,nonempty
+21269,2021,OTHER,Knowledge-Based Systems,nonempty
+21271,2021,OTHER,Applied Mathematical Modelling,nonempty
+21275,2022,OTHER,Engineering Applications of Artificial Intelligence,nonempty
+21281,2021,OTHER,Complexity,nonempty
+21282,2021,OTHER,Mathematical Problems in Engineering,nonempty
+21283,2022,OTHER,Computer Methods in Applied Mechanics and Engineering,nonempty
+21285,2020,OTHER,Optimization Letters,nonempty
+21286,2021,OTHER,Neural Computing and Applications,nonempty
+21289,2020,OTHER,"International Journal of Engineering, Transactions A: Basics",nonempty
+21294,2022,OTHER,Energy,nonempty
+21296,2022,OTHER,Applied Intelligence,nonempty
+23369,2025,OTHER,Crystals,nonempty
+24186,2017,OTHER,Transactions of the Japanese Society for Artificial Intelligence,nonempty
+24188,2017,OTHER,Computers and Operations Research,nonempty
+24210,2013,OTHER,Advances in Intelligent Systems and Computing,nonempty
+24212,2014,OTHER,Transactions of the Japanese Society for Artificial Intelligence,nonempty
+24215,2010,OTHER,"IEEJ Transactions on Electronics, Information and Systems",nonempty
+30319,2011,OTHER,Journal of Materials Science: Materials in Medicine,nonempty
+35886,2016,OTHER,Journal of Materials Science: Materials in Electronics,nonempty
+38879,2021,OTHER,Journal of Materials Science: Materials in Electronics,nonempty
+38884,2020,OTHER,Journal of Materials Science: Materials in Electronics,nonempty
+40814,2022,OTHER,International Journal of Technology and Design Education,nonempty
+43093,2023,OTHER,Measurement Science and Technology,nonempty
+54217,2026,OTHER,Nanotechnology,nonempty
+60333,2019,OTHER,Algorithmica,nonempty
+60334,2014,OTHER,Theoretical Computer Science,nonempty
+60363,2007,OTHER,Applied Mathematics and Computation,nonempty
+60405,1999,OTHER,Izvestiya Akademii Nauk. Teoriya i Sistemy Upravleniya,nonempty
+60406,2000,OTHER,Ruan Jian Xue Bao/Journal of Software,nonempty
+60496,1990,OTHER,Parallel Computing,nonempty
+60538,2004,OTHER,Computers and Operations Research,nonempty
+62420,2010,OTHER,Computers and Operations Research,nonempty
+62422,2012,OTHER,AI Magazine,nonempty
+65115,2018,OTHER,Renewable Energy,nonempty
+67744,2024,OTHER,Communications in Computer and Information Science,nonempty
+67748,2024,OTHER,IFIP Advances in Information and Communication Technology,nonempty
+72707,2022,OTHER,Biofabrication,nonempty
+72731,2023,OTHER,Aircraft Engineering and Aerospace Technology,nonempty
+72839,2021,OTHER,Physical Review Letters,nonempty
+72998,2011,OTHER,Journal of Nanoparticle Research,nonempty
+75652,2011,OTHER,Annals of the Institute of Statistical Mathematics,nonempty
+75986,2007,OTHER,International Journal of Remote Sensing,nonempty
+81487,2018,OTHER,International Journal of Electronics,nonempty
+83953,2022,OTHER,"Wei(wfan7@uncc.edu)""",nonempty
+84119,2022,OTHER,International Journal of Electrical Engineering and Education,nonempty
+84121,2021,OTHER,Inorganic Chemistry,nonempty
+84122,2021,OTHER,Inorganic Chemistry,nonempty
+84123,2021,OTHER,Inorganica Chimica Acta,nonempty
+86661,2024,OTHER,Inorganic Chemistry,empty
+86780,2024,OTHER,Inorganic Chemistry,nonempty
+86781,2023,OTHER,Inorganic Chemistry,nonempty
+88858,2025,OTHER,International Journal of Environmental Studies,nonempty
+90564,2016,OTHER,Reactive and Functional Polymers,nonempty
+92354,2018,OTHER,Algorithmica,nonempty
+92359,2007,OTHER,Journal of Catalysis,nonempty
+94414,2007,OTHER,Reliable Computing,nonempty

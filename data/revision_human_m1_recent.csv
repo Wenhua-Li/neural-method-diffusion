@@ -1,0 +1,3 @@
+group,denominator,old_known_n,old_known_positive,complement_N,new_n,new_positive,machine_pct,human_recent_pct,lower_pct,upper_pct,family_size,interpretation
+Core EC conferences,4759,3,1,4756,100,55,64.1521328010086,54.986341668417744,43.45450724942215,66.12733767598235,2,recent endpoint only; not a new confidence interval for the old-to-new trend
+Core EC journals,3171,2,2,3169,100,65,78.71333964049197,65.02207505518764,53.61084831283507,75.27593818984548,2,recent endpoint only; not a new confidence interval for the old-to-new trend

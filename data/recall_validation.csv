@@ -1,0 +1,1196 @@
+corpus_id,part,is_enriched,year,venue_abbr,group,period,extended_vocabulary,in_random_non_enriched,label
+105720,random,True,2008,TEVC,Core EC journals,<=2015,True,False,other
+33072,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,dl_native
+97882,random,False,2022,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+99600,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+71129,enriched,True,2022,ICSI,Core EC conferences,2021-2025,True,False,hybrid
+88008,random,False,2025,INS,Mixed journals,2021-2025,False,True,dl_native
+60314,random,False,2009,EVOINT,Core EC journals,<=2015,False,True,other
+101402,random,False,2023,SWEVC,Core EC journals,2021-2025,False,True,other
+17105,enriched,True,2010,CEC,Core EC conferences,<=2015,True,False,other
+99768,enriched,True,2017,SSCI,SSCI (mixed conf.),2016-2020,True,False,neuroevolution
+97653,enriched,True,2023,SSCI,SSCI (mixed conf.),2021-2025,True,False,neuroevolution
+63790,enriched,True,2011,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+57790,enriched,True,2023,EVOAPP,Core EC conferences,2021-2025,True,False,dl_native
+91236,random,False,2020,MEMETIC,Core EC journals,2016-2020,False,True,other
+3782,enriched,True,2012,ASOC,Mixed journals,<=2015,True,False,other
+30116,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,dl_native
+56925,random,False,2021,EUROGP,Core EC conferences,2021-2025,False,True,neuroevolution
+60004,enriched,True,2021,EVOINT,Core EC journals,2021-2025,True,False,neuroevolution
+105035,random,False,2019,TEVC,Core EC journals,2016-2020,False,True,other
+42102,random,False,2023,ESWA,Mixed journals,2021-2025,False,True,other
+60260,enriched,True,2012,EVOINT,Core EC journals,<=2015,True,False,neuroevolution
+19901,random,False,2016,CEC,Core EC conferences,2016-2020,False,True,other
+21984,random,False,2022,CEC,Core EC conferences,2021-2025,False,True,other
+7888,enriched,True,2023,ASOC,Mixed journals,2021-2025,True,False,hybrid
+35941,enriched,True,2021,ESWA,Mixed journals,2021-2025,True,False,dl_native
+27968,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,dl_native
+18094,enriched,True,2008,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+95098,enriched,True,2015,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+97362,random,True,2007,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+80319,enriched,True,2020,INS,Mixed journals,2016-2020,True,False,dl_native
+75154,random,False,2009,INS,Mixed journals,<=2015,False,True,other
+100813,enriched,True,2025,SWEVC,Core EC journals,2021-2025,True,False,hybrid
+5943,random,False,2017,ASOC,Mixed journals,2016-2020,False,True,other
+105532,random,False,2011,TEVC,Core EC journals,<=2015,False,True,other
+95905,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+69682,enriched,True,2022,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+81555,random,False,2022,INS,Mixed journals,2021-2025,False,True,other
+21343,enriched,True,2025,CEC,Core EC conferences,2021-2025,True,False,hybrid
+34545,enriched,True,2017,ESWA,Mixed journals,2016-2020,True,False,other
+90986,random,False,2025,MEMETIC,Core EC journals,2021-2025,False,True,dl_native
+47161,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+20905,enriched,True,2014,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+36556,random,False,2020,ESWA,Mixed journals,2016-2020,False,True,other
+71481,random,False,2018,ICSI,Core EC conferences,2016-2020,False,True,other
+91329,random,False,2016,MEMETIC,Core EC journals,2016-2020,False,True,other
+25997,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,dl_native
+9043,enriched,True,2021,ASOC,Mixed journals,2021-2025,True,False,dl_native
+63941,enriched,True,2010,GECCO,Core EC conferences,<=2015,True,False,hybrid
+68109,enriched,True,2025,GECCO,Core EC conferences,2021-2025,True,False,hybrid
+97597,enriched,True,2023,SSCI,SSCI (mixed conf.),2021-2025,True,False,dl_native
+23733,enriched,True,2008,CIM,Mixed journals,<=2015,True,False,hybrid
+120047,random,False,2012,GECCO,Core EC conferences,<=2015,False,True,other
+34803,enriched,True,2015,ESWA,Mixed journals,<=2015,True,False,dl_native
+101144,random,False,2024,SWEVC,Core EC journals,2021-2025,False,True,other
+16902,random,True,2010,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+97811,random,False,2022,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+38326,random,False,2019,ESWA,Mixed journals,2016-2020,False,True,other
+19154,random,False,2018,CEC,Core EC conferences,2016-2020,False,True,other
+20551,random,False,2015,CEC,Core EC conferences,<=2015,False,True,other
+63512,random,False,2011,GECCO,Core EC conferences,<=2015,False,True,other
+100225,random,False,2016,SWARMINT,Core EC journals,2016-2020,False,True,other
+70845,random,False,2003,GPEM,Core EC journals,<=2015,False,True,neuroevolution
+42014,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,other
+100997,enriched,True,2025,SWEVC,Core EC journals,2021-2025,True,False,hybrid
+25692,random,False,2009,ESWA,Mixed journals,<=2015,False,True,other
+120686,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+22154,enriched,True,2022,CEC,Core EC conferences,2021-2025,True,False,neuroevolution
+120782,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+17372,random,False,2009,CEC,Core EC conferences,<=2015,False,True,other
+32525,random,False,2012,ESWA,Mixed journals,<=2015,False,True,other
+45659,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,dl_native
+22828,random,False,2020,CEC,Core EC conferences,2016-2020,False,True,other
+118159,enriched,True,2002,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+22738,enriched,True,2020,CEC,Core EC conferences,2016-2020,True,False,neuroevolution
+120054,enriched,True,2012,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+102378,enriched,True,2014,SWEVC,Core EC journals,<=2015,True,False,hybrid
+59818,random,False,2022,EVOINT,Core EC journals,2021-2025,False,True,other
+22197,enriched,True,2021,CEC,Core EC conferences,2021-2025,True,False,neuroevolution
+4388,enriched,True,2020,ASOC,Mixed journals,2016-2020,True,False,other
+57301,random,False,2007,EUROGP,Core EC conferences,<=2015,False,True,other
+98963,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+57932,enriched,True,2020,EVOAPP,Core EC conferences,2016-2020,True,False,neuroevolution
+102018,enriched,True,2019,SWEVC,Core EC journals,2016-2020,True,False,neuroevolution
+91291,random,False,2017,MEMETIC,Core EC journals,2016-2020,False,True,dl_native
+93637,random,False,2000,PPSN,Core EC conferences,<=2015,False,True,other
+65957,random,False,2019,GECCO,Core EC conferences,2016-2020,False,True,other
+104828,random,False,2022,TEVC,Core EC journals,2021-2025,False,True,other
+99200,enriched,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,other
+66557,random,False,2018,GECCO,Core EC conferences,2016-2020,False,True,other
+34099,enriched,True,2017,ESWA,Mixed journals,2016-2020,True,False,dl_native
+82803,enriched,True,2021,INS,Mixed journals,2021-2025,True,False,dl_native
+1834,enriched,True,2016,ASOC,Mixed journals,2016-2020,True,False,neuroevolution
+59727,random,False,2023,EVOINT,Core EC journals,2021-2025,False,True,other
+67096,enriched,True,2016,GECCO,Core EC conferences,2016-2020,True,False,neuroevolution
+69361,random,False,2023,GECCO,Core EC conferences,2021-2025,False,True,other
+101051,enriched,True,2025,SWEVC,Core EC journals,2021-2025,True,False,hybrid
+105172,enriched,True,2017,TEVC,Core EC journals,2016-2020,True,False,other
+35865,random,False,2015,ESWA,Mixed journals,<=2015,False,True,other
+2115,enriched,True,2015,ASOC,Mixed journals,<=2015,True,False,dl_native
+57254,random,False,2008,EUROGP,Core EC conferences,<=2015,False,True,other
+36239,random,False,2021,ESWA,Mixed journals,2021-2025,False,True,other
+14575,random,False,2007,CEC,Core EC conferences,<=2015,False,True,other
+17296,enriched,True,2009,CEC,Core EC conferences,<=2015,True,False,hybrid
+7872,enriched,True,2023,ASOC,Mixed journals,2021-2025,True,False,dl_native
+95809,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+120916,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+81300,enriched,True,2018,INS,Mixed journals,2016-2020,True,False,dl_native
+26155,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,other
+26657,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,dl_native
+58040,random,False,2017,EVOAPP,Core EC conferences,2016-2020,False,True,other
+96973,enriched,True,2007,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+99932,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+101283,random,False,2024,SWEVC,Core EC journals,2021-2025,False,True,other
+30118,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,dl_native
+43344,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,dl_native
+98123,random,False,2021,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+62640,random,False,2014,GECCO,Core EC conferences,<=2015,False,True,other
+23860,enriched,True,2021,ECJ,Core EC journals,2021-2025,True,False,other
+29972,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,hybrid
+3931,enriched,True,2012,ASOC,Mixed journals,<=2015,True,False,neuroevolution
+20724,random,False,2014,CEC,Core EC conferences,<=2015,False,True,other
+30427,random,True,2014,ESWA,Mixed journals,<=2015,True,False,other
+27142,enriched,True,2007,ESWA,Mixed journals,<=2015,True,False,dl_native
+29675,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,other
+46080,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,other
+72444,enriched,True,2023,IJBIC,Mixed journals,2021-2025,True,False,hybrid
+64906,random,True,2008,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+116622,random,False,2000,ECJ,Core EC journals,<=2015,False,True,other
+120787,enriched,True,2011,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+45792,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,dl_native
+26492,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,dl_native
+85222,enriched,True,2024,INS,Mixed journals,2021-2025,True,False,dl_native
+91408,random,False,2011,MEMETIC,Core EC journals,<=2015,False,True,other
+56971,random,False,2018,EUROGP,Core EC conferences,2016-2020,False,True,other
+95914,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+3473,random,False,2013,ASOC,Mixed journals,<=2015,False,True,other
+97971,enriched,True,2022,SSCI,SSCI (mixed conf.),2021-2025,True,False,dl_native
+120789,enriched,True,2011,SSCI,SSCI (mixed conf.),<=2015,True,False,neuroevolution
+11941,random,False,2024,ASOC,Mixed journals,2021-2025,False,True,other
+9105,random,False,2021,ASOC,Mixed journals,2021-2025,False,True,other
+104241,random,False,2025,TEVC,Core EC journals,2021-2025,False,True,other
+74787,random,False,2009,INS,Mixed journals,<=2015,False,True,other
+60281,enriched,True,2010,EVOINT,Core EC journals,<=2015,True,False,neuroevolution
+96150,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+62893,random,False,2013,GECCO,Core EC conferences,<=2015,False,True,other
+8805,enriched,True,2021,ASOC,Mixed journals,2021-2025,True,False,other
+27529,random,False,2004,ESWA,Mixed journals,<=2015,False,True,other
+97852,enriched,True,2022,SSCI,SSCI (mixed conf.),2021-2025,True,False,dl_native
+105052,random,False,2019,TEVC,Core EC journals,2016-2020,False,True,other
+6768,random,False,2017,ASOC,Mixed journals,2016-2020,False,True,other
+79085,random,False,2020,INS,Mixed journals,2016-2020,False,True,other
+96629,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+23827,random,False,2023,ECJ,Core EC journals,2021-2025,False,True,other
+90233,random,False,2021,JOH,Mixed journals,2021-2025,False,True,other
+18269,random,False,2008,CEC,Core EC conferences,<=2015,False,True,other
+124978,enriched,True,2011,INS,Mixed journals,<=2015,True,False,other
+77987,enriched,True,2015,INS,Mixed journals,<=2015,True,False,other
+70804,enriched,True,2006,GPEM,Core EC journals,<=2015,True,False,neuroevolution
+60194,enriched,True,2016,EVOINT,Core EC journals,2016-2020,True,False,hybrid
+89698,enriched,True,1999,INS,Mixed journals,<=2015,True,False,dl_native
+96910,enriched,True,2009,SSCI,SSCI (mixed conf.),<=2015,True,False,neuroevolution
+80650,random,False,2019,INS,Mixed journals,2016-2020,False,True,other
+26457,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,dl_native
+95235,enriched,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+25523,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,dl_native
+62817,enriched,True,2014,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+26220,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,other
+17827,random,False,2008,CEC,Core EC conferences,<=2015,False,True,neuroevolution
+21224,enriched,True,2022,CEC,Core EC conferences,2021-2025,True,False,other
+95220,enriched,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+18940,random,False,2018,CEC,Core EC conferences,2016-2020,False,True,other
+96237,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+116619,enriched,True,2000,ECJ,Core EC journals,<=2015,True,False,neuroevolution
+106085,enriched,True,2000,TEVC,Core EC journals,<=2015,True,False,neuroevolution
+44007,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,neuroevolution
+105926,enriched,True,2005,TEVC,Core EC journals,<=2015,True,False,neuroevolution
+105063,random,False,2019,TEVC,Core EC journals,2016-2020,False,True,other
+20470,enriched,True,2015,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+96616,enriched,True,2009,SSCI,SSCI (mixed conf.),<=2015,True,False,hybrid
+101245,enriched,True,2024,SWEVC,Core EC journals,2021-2025,True,False,hybrid
+44862,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,dl_native
+4063,random,False,2020,ASOC,Mixed journals,2016-2020,False,True,other
+67749,random,False,2024,SOFTCOMP,Mixed journals,2021-2025,False,True,other
+9226,enriched,True,2021,ASOC,Mixed journals,2021-2025,True,False,hybrid
+29841,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,dl_native
+587,enriched,True,2010,ASOC,Mixed journals,<=2015,True,False,hybrid
+95597,enriched,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+44408,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,dl_native
+27480,random,False,2004,ESWA,Mixed journals,<=2015,False,True,other
+5488,enriched,True,2018,ASOC,Mixed journals,2016-2020,True,False,dl_native
+32058,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,other
+17999,enriched,True,2008,CEC,Core EC conferences,<=2015,True,False,dl_native
+105125,random,False,2018,TEVC,Core EC journals,2016-2020,False,True,other
+117905,random,False,2001,CEC,Core EC conferences,<=2015,False,True,other
+28638,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,dl_native
+119218,enriched,True,2011,CEC,Core EC conferences,<=2015,True,False,dl_native
+9444,enriched,True,2022,ASOC,Mixed journals,2021-2025,True,False,dl_native
+27202,enriched,True,2006,ESWA,Mixed journals,<=2015,True,False,dl_native
+83608,enriched,True,2021,INS,Mixed journals,2021-2025,True,False,other
+75133,random,False,2009,INS,Mixed journals,<=2015,False,True,other
+101446,random,False,2023,SWEVC,Core EC journals,2021-2025,False,True,other
+104317,random,False,2025,TEVC,Core EC journals,2021-2025,False,True,other
+37934,random,False,2020,ESWA,Mixed journals,2016-2020,False,True,other
+105994,random,False,2003,TEVC,Core EC journals,<=2015,False,True,other
+97775,random,False,2022,SSCI,SSCI (mixed conf.),2021-2025,False,True,dl_native
+65076,random,False,2008,GECCO,Core EC conferences,<=2015,False,True,other
+94730,enriched,True,2016,SSCI,SSCI (mixed conf.),2016-2020,True,False,neuroevolution
+97721,enriched,True,2023,SSCI,SSCI (mixed conf.),2021-2025,True,False,other
+64607,random,False,2009,GECCO,Core EC conferences,<=2015,False,True,neuroevolution
+97515,random,False,2023,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+81954,enriched,True,2022,INS,Mixed journals,2021-2025,True,False,dl_native
+37153,enriched,True,2020,ESWA,Mixed journals,2016-2020,True,False,dl_native
+66696,random,True,2017,GECCO,Core EC conferences,2016-2020,True,False,hybrid
+80674,random,False,2019,INS,Mixed journals,2016-2020,False,True,other
+99180,random,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,other
+30174,random,False,2010,ESWA,Mixed journals,<=2015,False,True,other
+11736,enriched,True,2024,ASOC,Mixed journals,2021-2025,True,False,neuroevolution
+15593,random,False,2005,CEC,Core EC conferences,<=2015,False,True,other
+95710,enriched,True,2013,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+28805,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,hybrid
+89377,random,False,2004,INS,Mixed journals,<=2015,False,True,neuroevolution
+22433,random,False,2021,CEC,Core EC conferences,2021-2025,False,True,other
+123182,random,False,2006,INS,Mixed journals,<=2015,False,True,other
+87524,enriched,True,2025,INS,Mixed journals,2021-2025,True,False,dl_native
+105377,random,False,2014,TEVC,Core EC journals,<=2015,False,True,other
+27037,enriched,True,2007,ESWA,Mixed journals,<=2015,True,False,dl_native
+16023,enriched,True,2013,CEC,Core EC conferences,<=2015,True,False,other
+97557,enriched,True,2023,SSCI,SSCI (mixed conf.),2021-2025,True,False,dl_native
+100483,random,False,2025,SWEVC,Core EC journals,2021-2025,False,True,other
+39183,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,dl_native
+93506,enriched,True,2004,PPSN,Core EC conferences,<=2015,True,False,neuroevolution
+63214,random,False,2013,GECCO,Core EC conferences,<=2015,False,True,other
+5037,random,False,2019,ASOC,Mixed journals,2016-2020,False,True,other
+73771,random,False,2012,INS,Mixed journals,<=2015,False,True,other
+27293,enriched,True,2005,ESWA,Mixed journals,<=2015,True,False,dl_native
+73396,enriched,True,2013,INS,Mixed journals,<=2015,True,False,other
+98443,enriched,True,2020,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+927,enriched,True,2009,ASOC,Mixed journals,<=2015,True,False,neuroevolution
+66574,random,False,2018,GECCO,Core EC conferences,2016-2020,False,True,hybrid
+123642,random,False,2008,INS,Mixed journals,<=2015,False,True,other
+96609,enriched,True,2009,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+17042,enriched,True,2010,CEC,Core EC conferences,<=2015,True,False,hybrid
+97156,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+67081,enriched,True,2016,GECCO,Core EC conferences,2016-2020,True,False,hybrid
+24796,random,False,2007,EMO,Core EC conferences,<=2015,False,True,other
+105591,random,False,2011,TEVC,Core EC journals,<=2015,False,True,other
+1620,random,False,2015,ASOC,Mixed journals,<=2015,False,True,other
+58649,enriched,True,2025,EVOCOP,Core EC conferences,2021-2025,True,False,neuroevolution
+102030,enriched,True,2018,SWEVC,Core EC journals,2016-2020,True,False,other
+94746,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+573,random,True,2010,ASOC,Mixed journals,<=2015,True,False,other
+30901,enriched,True,2014,ESWA,Mixed journals,<=2015,True,False,dl_native
+69179,enriched,True,2023,GECCO,Core EC conferences,2021-2025,True,False,other
+919,enriched,True,2009,ASOC,Mixed journals,<=2015,True,False,dl_native
+118630,random,False,2003,CEC,Core EC conferences,<=2015,False,True,other
+40681,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,other
+26118,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,dl_native
+26863,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,other
+3897,enriched,True,2012,ASOC,Mixed journals,<=2015,True,False,other
+43264,random,False,2024,ESWA,Mixed journals,2021-2025,False,True,other
+95300,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+61245,random,False,2006,GECCO,Core EC conferences,<=2015,False,True,other
+101941,random,False,2019,SWEVC,Core EC journals,2016-2020,False,True,other
+104435,random,False,2025,TEVC,Core EC journals,2021-2025,False,True,other
+102324,random,False,2016,SWEVC,Core EC journals,2016-2020,False,True,other
+102573,enriched,True,2025,TETCI,Mixed journals,2021-2025,True,False,other
+18079,random,False,2008,CEC,Core EC conferences,<=2015,False,True,other
+27105,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,dl_native
+94839,random,False,2015,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+96651,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+104898,random,False,2021,TEVC,Core EC journals,2021-2025,False,True,hybrid
+105002,random,False,2020,TEVC,Core EC journals,2016-2020,False,True,other
+61030,random,False,2007,GECCO,Core EC conferences,<=2015,False,True,neuroevolution
+80379,enriched,True,2019,INS,Mixed journals,2016-2020,True,False,other
+63381,enriched,True,2011,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+16857,enriched,True,2010,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+41619,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,other
+96440,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+120210,enriched,True,2012,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+7685,random,False,2022,ASOC,Mixed journals,2021-2025,False,True,other
+46829,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+14460,enriched,True,2007,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+91179,random,True,2020,MEMETIC,Core EC journals,2016-2020,True,False,neuroevolution
+96316,enriched,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+95862,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+89584,enriched,True,2001,INS,Mixed journals,<=2015,True,False,other
+14638,random,False,2007,CEC,Core EC conferences,<=2015,False,True,other
+6468,enriched,True,2017,ASOC,Mixed journals,2016-2020,True,False,dl_native
+83101,enriched,True,2021,INS,Mixed journals,2021-2025,True,False,other
+94277,enriched,True,2018,SOFTCOMP,Mixed journals,2016-2020,True,False,dl_native
+43805,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,dl_native
+6505,enriched,True,2017,ASOC,Mixed journals,2016-2020,True,False,hybrid
+15555,enriched,True,2005,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+95402,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+102081,random,False,2019,SWEVC,Core EC journals,2016-2020,False,True,other
+45467,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,hybrid
+65272,random,False,2020,GECCO,Core EC conferences,2016-2020,False,True,other
+62064,random,False,2004,GECCO,Core EC conferences,<=2015,False,True,other
+25607,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,neuroevolution
+22166,random,False,2022,CEC,Core EC conferences,2021-2025,False,True,other
+28760,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,dl_native
+103558,enriched,True,2023,TETCI,Mixed journals,2021-2025,True,False,dl_native
+70461,random,False,2022,GPEM,Core EC journals,2021-2025,False,True,neuroevolution
+94424,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+105096,random,False,2018,TEVC,Core EC journals,2016-2020,False,True,other
+117676,enriched,True,2000,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+70314,enriched,True,2021,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+36641,enriched,True,2021,ESWA,Mixed journals,2021-2025,True,False,dl_native
+59344,enriched,True,2025,EVOINT,Core EC journals,2021-2025,True,False,hybrid
+68665,enriched,True,2024,GECCO,Core EC conferences,2021-2025,True,False,hybrid
+11373,enriched,True,2024,ASOC,Mixed journals,2021-2025,True,False,dl_native
+25064,random,False,2009,ESWA,Mixed journals,<=2015,False,True,other
+82607,enriched,True,2022,INS,Mixed journals,2021-2025,True,False,dl_native
+99839,enriched,True,2017,SSCI,SSCI (mixed conf.),2016-2020,True,False,other
+42717,random,False,2023,ESWA,Mixed journals,2021-2025,False,True,other
+120744,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+25724,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,hybrid
+90423,random,False,2015,JOH,Mixed journals,<=2015,False,True,other
+85999,enriched,True,2023,INS,Mixed journals,2021-2025,True,False,other
+25425,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,other
+70562,random,False,2018,GPEM,Core EC journals,2016-2020,False,True,other
+99094,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+96006,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+12421,random,False,2024,ASOC,Mixed journals,2021-2025,False,True,other
+8280,enriched,True,2022,ASOC,Mixed journals,2021-2025,True,False,hybrid
+48530,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+33096,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,other
+47129,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+41794,random,False,2023,ESWA,Mixed journals,2021-2025,False,True,other
+68792,enriched,True,2024,GECCO,Core EC conferences,2021-2025,True,False,hybrid
+14960,enriched,True,2006,CEC,Core EC conferences,<=2015,True,False,dl_native
+103386,enriched,True,2024,TETCI,Mixed journals,2021-2025,True,False,dl_native
+99085,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+33140,random,False,2012,ESWA,Mixed journals,<=2015,False,True,other
+29936,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,other
+25301,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,other
+33191,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,dl_native
+20042,enriched,True,2016,CEC,Core EC conferences,2016-2020,True,False,other
+96659,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+42995,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,other
+95520,random,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+83822,random,False,2021,INS,Mixed journals,2021-2025,False,True,other
+97286,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+96138,enriched,True,2013,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+105598,random,False,2011,TEVC,Core EC journals,<=2015,False,True,other
+31169,enriched,True,2013,ESWA,Mixed journals,<=2015,True,False,other
+97198,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,neuroevolution
+98940,random,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,other
+40726,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,dl_native
+46227,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,hybrid
+117711,enriched,True,2000,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+72466,enriched,True,2022,IJBIC,Mixed journals,2021-2025,True,False,dl_native
+15870,random,False,2013,CEC,Core EC conferences,<=2015,False,True,other
+20663,enriched,True,2015,CEC,Core EC conferences,<=2015,True,False,other
+1272,enriched,True,2003,ASOC,Mixed journals,<=2015,True,False,dl_native
+93714,enriched,True,1998,PPSN,Core EC conferences,<=2015,True,False,neuroevolution
+117746,random,False,2000,CEC,Core EC conferences,<=2015,False,True,other
+118833,enriched,True,2004,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+94259,enriched,True,2025,SOFTCOMP,Mixed journals,2021-2025,True,False,dl_native
+59451,enriched,True,2024,EVOINT,Core EC journals,2021-2025,True,False,hybrid
+69995,enriched,True,2021,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+120407,enriched,True,2011,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+94463,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+79905,random,False,2020,INS,Mixed journals,2016-2020,False,True,other
+67369,enriched,True,2015,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+67174,random,False,2016,GECCO,Core EC conferences,2016-2020,False,True,other
+96597,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+85573,random,False,2023,INS,Mixed journals,2021-2025,False,True,other
+100657,random,False,2025,SWEVC,Core EC journals,2021-2025,False,True,hybrid
+23718,random,False,2007,CIM,Mixed journals,<=2015,False,True,other
+15067,random,False,2006,CEC,Core EC conferences,<=2015,False,True,other
+96859,enriched,True,2009,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+99023,enriched,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,hybrid
+30071,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,dl_native
+28897,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,dl_native
+98065,random,False,2021,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+214,random,False,2011,ASOC,Mixed journals,<=2015,False,True,other
+8417,enriched,True,2022,ASOC,Mixed journals,2021-2025,True,False,dl_native
+100221,random,False,2017,SWARMINT,Core EC journals,2016-2020,False,True,other
+38735,random,True,2019,ESWA,Mixed journals,2016-2020,True,False,other
+17898,random,False,2008,CEC,Core EC conferences,<=2015,False,True,other
+24028,random,True,2015,ECJ,Core EC journals,<=2015,True,False,neuroevolution
+30310,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,hybrid
+120966,enriched,True,2011,SSCI,SSCI (mixed conf.),<=2015,True,False,neuroevolution
+60836,enriched,True,2007,GECCO,Core EC conferences,<=2015,True,False,hybrid
+106176,random,False,1997,TEVC,Core EC journals,<=2015,False,True,other
+21850,enriched,True,2023,CEC,Core EC conferences,2021-2025,True,False,hybrid
+67846,random,False,2025,GECCO,Core EC conferences,2021-2025,False,True,other
+4364,enriched,True,2020,ASOC,Mixed journals,2016-2020,True,False,neuroevolution
+3993,enriched,True,2012,ASOC,Mixed journals,<=2015,True,False,dl_native
+74823,random,False,2009,INS,Mixed journals,<=2015,False,True,other
+10122,enriched,True,2025,ASOC,Mixed journals,2021-2025,True,False,hybrid
+99841,random,True,2017,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+97976,random,False,2022,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+85601,enriched,True,2023,INS,Mixed journals,2021-2025,True,False,dl_native
+28781,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,dl_native
+96378,enriched,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+103921,enriched,True,2018,TETCI,Mixed journals,2016-2020,True,False,dl_native
+59832,random,False,2021,EVOINT,Core EC journals,2021-2025,False,True,other
+104717,random,False,2024,TEVC,Core EC journals,2021-2025,False,True,other
+104195,enriched,True,2025,TEVC,Core EC journals,2021-2025,True,False,neuroevolution
+60903,random,False,2007,GECCO,Core EC conferences,<=2015,False,True,neuroevolution
+47742,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+117672,enriched,True,2000,CEC,Core EC conferences,<=2015,True,False,hybrid
+30142,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,dl_native
+35077,enriched,True,2016,ESWA,Mixed journals,2016-2020,True,False,dl_native
+57024,random,False,2016,EUROGP,Core EC conferences,2016-2020,False,True,neuroevolution
+64625,random,False,2009,GECCO,Core EC conferences,<=2015,False,True,other
+120793,enriched,True,2011,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+23554,enriched,True,2012,CIM,Mixed journals,<=2015,True,False,dl_native
+98807,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+42138,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,dl_native
+15087,random,False,2006,CEC,Core EC conferences,<=2015,False,True,other
+59250,random,False,2025,EVOINT,Core EC journals,2021-2025,False,True,other
+94234,enriched,True,2022,SOFTCOMP,Mixed journals,2021-2025,True,False,hybrid
+105784,random,False,2006,TEVC,Core EC journals,<=2015,False,True,other
+100859,random,False,2024,SWEVC,Core EC journals,2021-2025,False,True,other
+96182,enriched,True,2013,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+101131,enriched,True,2024,SWEVC,Core EC journals,2021-2025,True,False,neuroevolution
+64898,enriched,True,2008,GECCO,Core EC conferences,<=2015,True,False,other
+99147,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+101257,random,False,2024,SWEVC,Core EC journals,2021-2025,False,True,hybrid
+95249,enriched,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+68940,enriched,True,2023,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+106112,random,False,2000,TEVC,Core EC journals,<=2015,False,True,neuroevolution
+61912,random,False,2003,GECCO,Core EC conferences,<=2015,False,True,other
+62203,random,False,2004,GECCO,Core EC conferences,<=2015,False,True,other
+18240,enriched,True,2008,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+108802,enriched,True,2016,SOFTCOMP,Mixed journals,2016-2020,True,False,other
+104943,enriched,True,2021,TEVC,Core EC journals,2021-2025,True,False,other
+27778,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,other
+35010,enriched,True,2016,ESWA,Mixed journals,2016-2020,True,False,other
+8025,enriched,True,2022,ASOC,Mixed journals,2021-2025,True,False,dl_native
+35308,enriched,True,2016,ESWA,Mixed journals,2016-2020,True,False,other
+84419,enriched,True,2024,INS,Mixed journals,2021-2025,True,False,other
+73501,random,False,2013,INS,Mixed journals,<=2015,False,True,other
+60735,enriched,True,2007,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+96722,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+41745,random,False,2023,ESWA,Mixed journals,2021-2025,False,True,other
+82801,random,False,2022,INS,Mixed journals,2021-2025,False,True,other
+97930,enriched,True,2022,SSCI,SSCI (mixed conf.),2021-2025,True,False,dl_native
+104273,random,False,2025,TEVC,Core EC journals,2021-2025,False,True,hybrid
+100326,random,False,2008,SWARMINT,Core EC journals,<=2015,False,True,other
+14514,random,False,2007,CEC,Core EC conferences,<=2015,False,True,other
+57291,random,False,2007,EUROGP,Core EC conferences,<=2015,False,True,other
+97375,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+18444,enriched,True,2019,CEC,Core EC conferences,2016-2020,True,False,neuroevolution
+101578,random,False,2022,SWEVC,Core EC journals,2021-2025,False,True,other
+102082,random,False,2019,SWEVC,Core EC journals,2016-2020,False,True,other
+98981,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,dl_native
+96945,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+99780,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+10001,enriched,True,2025,ASOC,Mixed journals,2021-2025,True,False,dl_native
+10481,enriched,True,2025,ASOC,Mixed journals,2021-2025,True,False,hybrid
+37954,random,False,2019,ESWA,Mixed journals,2016-2020,False,True,other
+79246,random,False,2020,INS,Mixed journals,2016-2020,False,True,other
+82982,enriched,True,2022,INS,Mixed journals,2021-2025,True,False,dl_native
+85173,enriched,True,2024,INS,Mixed journals,2021-2025,True,False,dl_native
+27347,enriched,True,2005,ESWA,Mixed journals,<=2015,True,False,other
+48174,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+86104,enriched,True,2023,INS,Mixed journals,2021-2025,True,False,dl_native
+61040,random,False,2007,GECCO,Core EC conferences,<=2015,False,True,other
+40440,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,dl_native
+100257,random,False,2013,SWARMINT,Core EC journals,<=2015,False,True,other
+2804,enriched,True,2016,ASOC,Mixed journals,2016-2020,True,False,other
+96215,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+101664,random,False,2022,SWEVC,Core EC journals,2021-2025,False,True,other
+20769,random,False,2014,CEC,Core EC conferences,<=2015,False,True,other
+83762,random,False,2021,INS,Mixed journals,2021-2025,False,True,other
+99798,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+29971,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,dl_native
+24411,random,True,2019,EMO,Core EC conferences,2016-2020,True,False,other
+98908,enriched,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+64504,enriched,True,2009,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+117852,enriched,True,2001,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+98689,enriched,True,2020,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+14897,enriched,True,2006,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+64200,random,False,2010,GECCO,Core EC conferences,<=2015,False,True,other
+17555,random,False,2009,CEC,Core EC conferences,<=2015,False,True,other
+25916,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,other
+6338,enriched,True,2017,ASOC,Mixed journals,2016-2020,True,False,other
+40779,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,other
+101278,enriched,True,2024,SWEVC,Core EC journals,2021-2025,True,False,hybrid
+66495,random,False,2018,GECCO,Core EC conferences,2016-2020,False,True,other
+70900,random,False,2025,ICSI,Core EC conferences,2021-2025,False,True,other
+96875,enriched,True,2009,SSCI,SSCI (mixed conf.),<=2015,True,False,neuroevolution
+89230,enriched,True,2004,INS,Mixed journals,<=2015,True,False,dl_native
+116645,random,False,2001,ECJ,Core EC journals,<=2015,False,True,other
+60874,enriched,True,2007,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+14994,enriched,True,2006,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+98087,enriched,True,2021,SSCI,SSCI (mixed conf.),2021-2025,True,False,dl_native
+68334,enriched,True,2025,GECCO,Core EC conferences,2021-2025,True,False,hybrid
+5296,enriched,True,2019,ASOC,Mixed journals,2016-2020,True,False,dl_native
+99796,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+27013,random,True,2007,ESWA,Mixed journals,<=2015,True,False,other
+45271,random,False,2024,ESWA,Mixed journals,2021-2025,False,True,dl_native
+94616,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+91341,random,False,2014,MEMETIC,Core EC journals,<=2015,False,True,other
+31050,enriched,True,2014,ESWA,Mixed journals,<=2015,True,False,dl_native
+91366,random,False,2012,MEMETIC,Core EC journals,<=2015,False,True,other
+99293,random,False,2018,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+60068,random,False,2021,EVOINT,Core EC journals,2021-2025,False,True,other
+40370,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,dl_native
+91029,enriched,True,2025,MEMETIC,Core EC journals,2021-2025,True,False,neuroevolution
+26393,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,other
+95075,enriched,True,2015,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+16729,enriched,True,2010,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+25667,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,dl_native
+60007,random,False,2020,EVOINT,Core EC journals,2016-2020,False,True,other
+7203,enriched,True,2023,ASOC,Mixed journals,2021-2025,True,False,dl_native
+46188,random,False,2024,ESWA,Mixed journals,2021-2025,False,True,other
+94429,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+105301,random,True,2015,TEVC,Core EC journals,<=2015,True,False,hybrid
+63761,enriched,True,2011,GECCO,Core EC conferences,<=2015,True,False,other
+99214,enriched,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,other
+95254,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+63711,enriched,True,2011,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+32627,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,dl_native
+60271,random,True,2011,EVOINT,Core EC journals,<=2015,True,False,neuroevolution
+1918,enriched,True,2014,ASOC,Mixed journals,<=2015,True,False,other
+11166,enriched,True,2025,ASOC,Mixed journals,2021-2025,True,False,hybrid
+60149,enriched,True,2020,EVOINT,Core EC journals,2016-2020,True,False,dl_native
+97743,random,False,2023,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+7115,enriched,True,2023,ASOC,Mixed journals,2021-2025,True,False,hybrid
+61186,enriched,True,2007,GECCO,Core EC conferences,<=2015,True,False,other
+120747,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+43524,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,hybrid
+98234,random,False,2021,SSCI,SSCI (mixed conf.),2021-2025,False,True,neuroevolution
+72112,enriched,True,2014,ICSI,Core EC conferences,<=2015,True,False,neuroevolution
+35875,enriched,True,2015,ESWA,Mixed journals,<=2015,True,False,dl_native
+66760,random,False,2017,GECCO,Core EC conferences,2016-2020,False,True,other
+6118,enriched,True,2018,ASOC,Mixed journals,2016-2020,True,False,other
+101590,random,False,2022,SWEVC,Core EC journals,2021-2025,False,True,other
+866,enriched,True,2009,ASOC,Mixed journals,<=2015,True,False,neuroevolution
+124992,random,False,2011,INS,Mixed journals,<=2015,False,True,other
+59894,enriched,True,2022,EVOINT,Core EC journals,2021-2025,True,False,hybrid
+103322,enriched,True,2024,TETCI,Mixed journals,2021-2025,True,False,dl_native
+95510,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+60316,enriched,True,2008,EVOINT,Core EC journals,<=2015,True,False,neuroevolution
+98414,random,False,2020,SSCI,SSCI (mixed conf.),2016-2020,False,True,hybrid
+101221,random,False,2023,SWEVC,Core EC journals,2021-2025,False,True,dl_native
+82116,random,False,2022,INS,Mixed journals,2021-2025,False,True,other
+95936,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+93283,enriched,True,2006,PPSN,Core EC conferences,<=2015,True,False,neuroevolution
+96337,enriched,True,2013,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+18490,random,False,2019,CEC,Core EC conferences,2016-2020,False,True,other
+25678,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,other
+1182,enriched,True,2007,ASOC,Mixed journals,<=2015,True,False,dl_native
+16523,random,True,2012,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+44418,random,False,2024,ESWA,Mixed journals,2021-2025,False,True,dl_native
+38834,enriched,True,2019,ESWA,Mixed journals,2016-2020,True,False,other
+16800,random,False,2010,CEC,Core EC conferences,<=2015,False,True,other
+66920,random,False,2017,GECCO,Core EC conferences,2016-2020,False,True,other
+97421,enriched,True,2007,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+24305,random,False,2021,EMO,Core EC conferences,2021-2025,False,True,other
+30207,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,other
+120835,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,neuroevolution
+63114,random,False,2013,GECCO,Core EC conferences,<=2015,False,True,other
+81299,random,False,2018,INS,Mixed journals,2016-2020,False,True,other
+96387,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+6294,enriched,True,2017,ASOC,Mixed journals,2016-2020,True,False,neuroevolution
+7776,enriched,True,2022,ASOC,Mixed journals,2021-2025,True,False,dl_native
+1780,random,False,2015,ASOC,Mixed journals,<=2015,False,True,other
+82110,enriched,True,2022,INS,Mixed journals,2021-2025,True,False,other
+25872,random,False,2009,ESWA,Mixed journals,<=2015,False,True,other
+104679,enriched,True,2023,TEVC,Core EC journals,2021-2025,True,False,hybrid
+118305,enriched,True,2002,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+101305,enriched,True,2024,SWEVC,Core EC journals,2021-2025,True,False,hybrid
+5232,random,False,2019,ASOC,Mixed journals,2016-2020,False,True,other
+120396,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+97085,enriched,True,2007,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+24283,enriched,True,2023,EMO,Core EC conferences,2021-2025,True,False,dl_native
+67426,random,False,2015,GECCO,Core EC conferences,<=2015,False,True,other
+27259,enriched,True,2005,ESWA,Mixed journals,<=2015,True,False,dl_native
+59466,random,False,2024,EVOINT,Core EC journals,2021-2025,False,True,other
+47029,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+59092,random,False,2004,EVOCOP,Core EC conferences,<=2015,False,True,other
+28622,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,dl_native
+62352,random,False,2003,GECCO,Core EC conferences,<=2015,False,True,other
+28092,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,other
+46120,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,other
+18685,enriched,True,2019,CEC,Core EC conferences,2016-2020,True,False,neuroevolution
+27449,enriched,True,2004,ESWA,Mixed journals,<=2015,True,False,hybrid
+94758,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+37897,enriched,True,2021,ESWA,Mixed journals,2021-2025,True,False,dl_native
+96767,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+105338,random,False,2015,TEVC,Core EC journals,<=2015,False,True,other
+70395,enriched,True,2024,GPEM,Core EC journals,2021-2025,True,False,neuroevolution
+11717,enriched,True,2024,ASOC,Mixed journals,2021-2025,True,False,other
+69466,enriched,True,2022,GECCO,Core EC conferences,2021-2025,True,False,other
+59836,random,True,2022,EVOINT,Core EC journals,2021-2025,True,False,hybrid
+88275,enriched,True,2025,INS,Mixed journals,2021-2025,True,False,dl_native
+17239,enriched,True,2009,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+99361,random,False,2018,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+105724,enriched,True,2009,TEVC,Core EC journals,<=2015,True,False,neuroevolution
+102376,random,False,2013,SWEVC,Core EC journals,<=2015,False,True,other
+10745,random,False,2025,ASOC,Mixed journals,2021-2025,False,True,dl_native
+48949,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+119340,enriched,True,2011,CEC,Core EC conferences,<=2015,True,False,dl_native
+117966,enriched,True,2001,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+89428,enriched,True,2002,INS,Mixed journals,<=2015,True,False,dl_native
+119032,random,False,2004,CEC,Core EC conferences,<=2015,False,True,other
+7147,enriched,True,2023,ASOC,Mixed journals,2021-2025,True,False,dl_native
+75676,random,False,2007,INS,Mixed journals,<=2015,False,True,other
+49538,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+105385,random,False,2015,TEVC,Core EC journals,<=2015,False,True,other
+32121,random,False,2012,ESWA,Mixed journals,<=2015,False,True,other
+45980,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,other
+35998,enriched,True,2021,ESWA,Mixed journals,2021-2025,True,False,dl_native
+91827,random,False,2019,NATCOMP,Mixed journals,2016-2020,False,True,other
+102303,enriched,True,2016,SWEVC,Core EC journals,2016-2020,True,False,hybrid
+17950,enriched,True,2008,CEC,Core EC conferences,<=2015,True,False,hybrid
+624,enriched,True,2011,ASOC,Mixed journals,<=2015,True,False,other
+105460,enriched,True,2013,TEVC,Core EC journals,<=2015,True,False,neuroevolution
+16268,random,False,2012,CEC,Core EC conferences,<=2015,False,True,other
+104441,enriched,True,2025,TEVC,Core EC journals,2021-2025,True,False,neuroevolution
+105815,random,False,2006,TEVC,Core EC journals,<=2015,False,True,other
+59869,enriched,True,2022,EVOINT,Core EC journals,2021-2025,True,False,neuroevolution
+595,enriched,True,2011,ASOC,Mixed journals,<=2015,True,False,other
+25373,random,False,2009,ESWA,Mixed journals,<=2015,False,True,other
+120628,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+28157,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,other
+93244,enriched,True,2008,PPSN,Core EC conferences,<=2015,True,False,other
+90713,random,False,2005,JOH,Mixed journals,<=2015,False,True,other
+98990,enriched,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+25979,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,dl_native
+90029,enriched,True,1997,INS,Mixed journals,<=2015,True,False,dl_native
+75540,random,False,2007,INS,Mixed journals,<=2015,False,True,other
+119018,enriched,True,2004,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+116709,random,False,2007,ECJ,Core EC journals,<=2015,False,True,other
+32133,random,False,2012,ESWA,Mixed journals,<=2015,False,True,other
+104087,enriched,True,2025,TEVC,Core EC journals,2021-2025,True,False,hybrid
+18587,enriched,True,2019,CEC,Core EC conferences,2016-2020,True,False,neuroevolution
+22702,enriched,True,2020,CEC,Core EC conferences,2016-2020,True,False,hybrid
+94675,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+94830,enriched,True,2016,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+120961,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+33139,random,False,2012,ESWA,Mixed journals,<=2015,False,True,other
+96920,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+27882,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,dl_native
+11955,enriched,True,2024,ASOC,Mixed journals,2021-2025,True,False,dl_native
+66798,enriched,True,2017,GECCO,Core EC conferences,2016-2020,True,False,neuroevolution
+74719,random,False,2009,INS,Mixed journals,<=2015,False,True,other
+101484,random,False,2022,SWEVC,Core EC journals,2021-2025,False,True,other
+105737,random,False,2008,TEVC,Core EC journals,<=2015,False,True,neuroevolution
+122710,random,False,2005,INS,Mixed journals,<=2015,False,True,other
+39807,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,dl_native
+98509,random,False,2020,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+94669,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+35201,enriched,True,2015,ESWA,Mixed journals,<=2015,True,False,other
+1788,enriched,True,2016,ASOC,Mixed journals,2016-2020,True,False,hybrid
+74437,enriched,True,2010,INS,Mixed journals,<=2015,True,False,dl_native
+69754,random,False,2022,GECCO,Core EC conferences,2021-2025,False,True,hybrid
+1091,random,False,2008,ASOC,Mixed journals,<=2015,False,True,other
+27279,enriched,True,2007,ESWA,Mixed journals,<=2015,True,False,other
+10892,enriched,True,2025,ASOC,Mixed journals,2021-2025,True,False,dl_native
+59959,random,False,2021,EVOINT,Core EC journals,2021-2025,False,True,other
+91407,enriched,True,2011,MEMETIC,Core EC journals,<=2015,True,False,neuroevolution
+70909,enriched,True,2025,ICSI,Core EC conferences,2021-2025,True,False,neuroevolution
+70517,random,False,2019,GPEM,Core EC journals,2016-2020,False,True,other
+20931,random,False,2014,CEC,Core EC conferences,<=2015,False,True,other
+99709,enriched,True,2017,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+67128,enriched,True,2016,GECCO,Core EC conferences,2016-2020,True,False,neuroevolution
+12323,enriched,True,2024,ASOC,Mixed journals,2021-2025,True,False,neuroevolution
+95363,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+26032,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,dl_native
+15606,random,True,2005,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+34424,enriched,True,2016,ESWA,Mixed journals,2016-2020,True,False,dl_native
+11324,random,False,2024,ASOC,Mixed journals,2021-2025,False,True,dl_native
+15295,random,False,2006,CEC,Core EC conferences,<=2015,False,True,other
+82023,random,False,2022,INS,Mixed journals,2021-2025,False,True,dl_native
+101572,random,False,2022,SWEVC,Core EC journals,2021-2025,False,True,other
+25248,random,False,2009,ESWA,Mixed journals,<=2015,False,True,other
+99436,enriched,True,2018,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+120437,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+18925,random,False,2018,CEC,Core EC conferences,2016-2020,False,True,other
+40947,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,dl_native
+2443,enriched,True,2014,ASOC,Mixed journals,<=2015,True,False,dl_native
+104643,random,False,2023,TEVC,Core EC journals,2021-2025,False,True,other
+28880,random,False,2010,ESWA,Mixed journals,<=2015,False,True,other
+99861,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+26710,enriched,True,2007,ESWA,Mixed journals,<=2015,True,False,neuroevolution
+6024,enriched,True,2018,ASOC,Mixed journals,2016-2020,True,False,dl_native
+68062,enriched,True,2025,GECCO,Core EC conferences,2021-2025,True,False,hybrid
+95895,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+71534,random,False,2018,ICSI,Core EC conferences,2016-2020,False,True,other
+47800,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+26674,random,False,2008,ESWA,Mixed journals,<=2015,False,True,other
+105321,random,True,2015,TEVC,Core EC journals,<=2015,True,False,neuroevolution
+18405,enriched,True,2019,CEC,Core EC conferences,2016-2020,True,False,neuroevolution
+2844,enriched,True,2014,ASOC,Mixed journals,<=2015,True,False,dl_native
+102116,random,False,2018,SWEVC,Core EC journals,2016-2020,False,True,other
+91213,random,False,2018,MEMETIC,Core EC journals,2016-2020,False,True,other
+64606,enriched,True,2009,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+120421,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+38392,enriched,True,2019,ESWA,Mixed journals,2016-2020,True,False,dl_native
+92657,random,False,2018,PPSN,Core EC conferences,2016-2020,False,True,other
+118995,random,False,2004,CEC,Core EC conferences,<=2015,False,True,other
+9729,random,False,2021,ASOC,Mixed journals,2021-2025,False,True,other
+14908,enriched,True,2007,CEC,Core EC conferences,<=2015,True,False,hybrid
+85164,enriched,True,2024,INS,Mixed journals,2021-2025,True,False,dl_native
+95718,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+96517,enriched,True,2009,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+14648,enriched,True,2007,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+60214,enriched,True,2014,EVOINT,Core EC journals,<=2015,True,False,neuroevolution
+34512,enriched,True,2015,ESWA,Mixed journals,<=2015,True,False,dl_native
+99682,enriched,True,2017,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+86000,enriched,True,2023,INS,Mixed journals,2021-2025,True,False,other
+72336,random,False,2025,IJBIC,Mixed journals,2021-2025,False,True,other
+6307,enriched,True,2018,ASOC,Mixed journals,2016-2020,True,False,dl_native
+70780,random,False,2006,GPEM,Core EC journals,<=2015,False,True,other
+97356,enriched,True,2007,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+120481,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+105452,random,False,2013,TEVC,Core EC journals,<=2015,False,True,other
+102226,random,False,2017,SWEVC,Core EC journals,2016-2020,False,True,other
+97134,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+120950,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+99430,random,False,2018,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+64163,random,False,2010,GECCO,Core EC conferences,<=2015,False,True,other
+33080,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,other
+35219,enriched,True,2015,ESWA,Mixed journals,<=2015,True,False,dl_native
+17195,enriched,True,2010,CEC,Core EC conferences,<=2015,True,False,hybrid
+18578,random,False,2019,CEC,Core EC conferences,2016-2020,False,True,other
+8481,enriched,True,2021,ASOC,Mixed journals,2021-2025,True,False,hybrid
+100923,random,False,2025,SWEVC,Core EC journals,2021-2025,False,True,other
+99591,random,False,2018,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+19356,random,False,2017,CEC,Core EC conferences,2016-2020,False,True,other
+84590,enriched,True,2024,INS,Mixed journals,2021-2025,True,False,dl_native
+59780,enriched,True,2022,EVOINT,Core EC journals,2021-2025,True,False,hybrid
+19174,enriched,True,2018,CEC,Core EC conferences,2016-2020,True,False,other
+33284,enriched,True,2018,ESWA,Mixed journals,2016-2020,True,False,dl_native
+58358,enriched,True,2013,EVOAPP,Core EC conferences,<=2015,True,False,neuroevolution
+46710,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,dl_native
+74678,random,False,2010,INS,Mixed journals,<=2015,False,True,other
+99699,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+105511,random,False,2012,TEVC,Core EC journals,<=2015,False,True,other
+33874,random,False,2017,ESWA,Mixed journals,2016-2020,False,True,other
+3413,enriched,True,2012,ASOC,Mixed journals,<=2015,True,False,other
+103452,enriched,True,2024,TETCI,Mixed journals,2021-2025,True,False,dl_native
+22096,random,False,2022,CEC,Core EC conferences,2021-2025,False,True,other
+46335,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,dl_native
+70558,enriched,True,2017,GPEM,Core EC journals,2016-2020,True,False,neuroevolution
+94258,random,False,2019,SOFTCOMP,Mixed journals,2016-2020,False,True,other
+69683,enriched,True,2022,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+20831,random,False,2014,CEC,Core EC conferences,<=2015,False,True,other
+14397,enriched,True,2007,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+69396,random,False,2023,GECCO,Core EC conferences,2021-2025,False,True,other
+47676,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+100,random,False,2021,ACMTELO,Core EC journals,2021-2025,False,True,other
+58474,enriched,True,2011,EVOAPP,Core EC conferences,<=2015,True,False,neuroevolution
+31872,enriched,True,2013,ESWA,Mixed journals,<=2015,True,False,dl_native
+58493,random,False,2010,EVOAPP,Core EC conferences,<=2015,False,True,other
+60042,enriched,True,2020,EVOINT,Core EC journals,2016-2020,True,False,hybrid
+22499,enriched,True,2021,CEC,Core EC conferences,2021-2025,True,False,neuroevolution
+7735,random,False,2022,ASOC,Mixed journals,2021-2025,False,True,other
+98320,enriched,True,2021,SSCI,SSCI (mixed conf.),2021-2025,True,False,dl_native
+23485,enriched,True,2013,CIM,Mixed journals,<=2015,True,False,other
+91259,random,False,2018,MEMETIC,Core EC journals,2016-2020,False,True,other
+102456,enriched,True,2011,SWEVC,Core EC journals,<=2015,True,False,neuroevolution
+32950,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,dl_native
+123551,enriched,True,2007,INS,Mixed journals,<=2015,True,False,dl_native
+36401,enriched,True,2021,ESWA,Mixed journals,2021-2025,True,False,dl_native
+95672,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+95939,enriched,True,2013,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+68565,enriched,True,2024,GECCO,Core EC conferences,2021-2025,True,False,other
+101425,random,False,2022,SWEVC,Core EC journals,2021-2025,False,True,other
+97090,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+65788,random,False,2019,GECCO,Core EC conferences,2016-2020,False,True,other
+84859,enriched,True,2024,INS,Mixed journals,2021-2025,True,False,hybrid
+102349,random,False,2014,SWEVC,Core EC journals,<=2015,False,True,other
+97336,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+73673,random,False,2013,INS,Mixed journals,<=2015,False,True,other
+64576,random,False,2009,GECCO,Core EC conferences,<=2015,False,True,other
+64925,enriched,True,2008,GECCO,Core EC conferences,<=2015,True,False,hybrid
+65332,enriched,True,2020,GECCO,Core EC conferences,2016-2020,True,False,neuroevolution
+30167,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,hybrid
+101186,random,False,2024,SWEVC,Core EC journals,2021-2025,False,True,dl_native
+74092,random,False,2011,INS,Mixed journals,<=2015,False,True,other
+70263,enriched,True,2021,GECCO,Core EC conferences,2021-2025,True,False,dl_native
+23854,random,False,2022,ECJ,Core EC journals,2021-2025,False,True,other
+124191,random,False,2009,INS,Mixed journals,<=2015,False,True,other
+59509,random,False,2024,EVOINT,Core EC journals,2021-2025,False,True,other
+24731,random,False,2007,EMO,Core EC conferences,<=2015,False,True,other
+3294,random,False,2014,ASOC,Mixed journals,<=2015,False,True,other
+19570,enriched,True,2016,CEC,Core EC conferences,2016-2020,True,False,neuroevolution
+101612,random,False,2022,SWEVC,Core EC journals,2021-2025,False,True,other
+49462,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+6130,enriched,True,2018,ASOC,Mixed journals,2016-2020,True,False,dl_native
+23893,random,False,2018,ECJ,Core EC journals,2016-2020,False,True,other
+66433,enriched,True,2018,GECCO,Core EC conferences,2016-2020,True,False,hybrid
+40372,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,other
+65781,random,False,2019,GECCO,Core EC conferences,2016-2020,False,True,other
+100476,enriched,True,2025,SWEVC,Core EC journals,2021-2025,True,False,hybrid
+117779,enriched,True,2000,CEC,Core EC conferences,<=2015,True,False,other
+14940,enriched,True,2006,CEC,Core EC conferences,<=2015,True,False,hybrid
+104945,random,False,2020,TEVC,Core EC journals,2016-2020,False,True,other
+44558,random,False,2024,ESWA,Mixed journals,2021-2025,False,True,other
+21586,enriched,True,2024,CEC,Core EC conferences,2021-2025,True,False,neuroevolution
+41808,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,dl_native
+99903,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+33156,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,dl_native
+12092,random,False,2025,ASOC,Mixed journals,2021-2025,False,True,other
+64949,random,False,2008,GECCO,Core EC conferences,<=2015,False,True,other
+14694,random,False,2007,CEC,Core EC conferences,<=2015,False,True,other
+23904,random,False,2018,ECJ,Core EC journals,2016-2020,False,True,other
+27267,enriched,True,2006,ESWA,Mixed journals,<=2015,True,False,other
+42560,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,hybrid
+67354,random,False,2016,GECCO,Core EC conferences,2016-2020,False,True,neuroevolution
+33603,enriched,True,2018,ESWA,Mixed journals,2016-2020,True,False,other
+59985,enriched,True,2021,EVOINT,Core EC journals,2021-2025,True,False,other
+65408,enriched,True,2020,GECCO,Core EC conferences,2016-2020,True,False,neuroevolution
+96763,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+97406,enriched,True,2007,SSCI,SSCI (mixed conf.),<=2015,True,False,hybrid
+59953,random,False,2022,EVOINT,Core EC journals,2021-2025,False,True,other
+91207,random,False,2019,MEMETIC,Core EC journals,2016-2020,False,True,other
+14549,enriched,True,2007,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+101124,random,False,2024,SWEVC,Core EC journals,2021-2025,False,True,hybrid
+67876,random,False,2025,GECCO,Core EC conferences,2021-2025,False,True,other
+27353,enriched,True,2005,ESWA,Mixed journals,<=2015,True,False,other
+97168,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+59867,enriched,True,2021,EVOINT,Core EC journals,2021-2025,True,False,neuroevolution
+43017,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,other
+23961,random,False,2017,ECJ,Core EC journals,2016-2020,False,True,other
+85366,enriched,True,2023,INS,Mixed journals,2021-2025,True,False,dl_native
+22645,random,False,2020,CEC,Core EC conferences,2016-2020,False,True,other
+5659,random,True,2018,ASOC,Mixed journals,2016-2020,True,False,hybrid
+40264,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,dl_native
+117919,enriched,True,2001,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+116692,random,False,2006,ECJ,Core EC journals,<=2015,False,True,other
+19982,enriched,True,2016,CEC,Core EC conferences,2016-2020,True,False,hybrid
+119937,random,False,2012,GECCO,Core EC conferences,<=2015,False,True,other
+29239,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,other
+67314,random,False,2016,GECCO,Core EC conferences,2016-2020,False,True,other
+120693,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+75349,enriched,True,2008,INS,Mixed journals,<=2015,True,False,other
+17176,random,False,2009,CEC,Core EC conferences,<=2015,False,True,other
+98079,enriched,True,2021,SSCI,SSCI (mixed conf.),2021-2025,True,False,dl_native
+15778,random,False,2013,CEC,Core EC conferences,<=2015,False,True,other
+99793,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,hybrid
+83803,random,False,2021,INS,Mixed journals,2021-2025,False,True,other
+21447,enriched,True,2025,CEC,Core EC conferences,2021-2025,True,False,neuroevolution
+59858,enriched,True,2022,EVOINT,Core EC journals,2021-2025,True,False,dl_native
+23625,enriched,True,2009,CIM,Mixed journals,<=2015,True,False,other
+69970,random,False,2021,GECCO,Core EC conferences,2021-2025,False,True,other
+97622,random,True,2023,SSCI,SSCI (mixed conf.),2021-2025,True,False,neuroevolution
+27916,random,False,2011,ESWA,Mixed journals,<=2015,False,True,other
+93169,random,True,2008,PPSN,Core EC conferences,<=2015,True,False,hybrid
+95716,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+27447,enriched,True,2004,ESWA,Mixed journals,<=2015,True,False,other
+91134,enriched,True,2022,MEMETIC,Core EC journals,2021-2025,True,False,other
+116685,random,False,2005,ECJ,Core EC journals,<=2015,False,True,other
+23946,random,False,2017,ECJ,Core EC journals,2016-2020,False,True,other
+25091,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,dl_native
+70807,random,False,2005,GPEM,Core EC journals,<=2015,False,True,other
+120340,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+101096,random,False,2025,SWEVC,Core EC journals,2021-2025,False,True,other
+29676,random,False,2010,ESWA,Mixed journals,<=2015,False,True,other
+98896,enriched,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+120490,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+72,random,False,2024,ACMTELO,Core EC journals,2021-2025,False,True,other
+24914,random,False,2001,EMO,Core EC conferences,<=2015,False,True,other
+117704,enriched,True,2000,CEC,Core EC conferences,<=2015,True,False,other
+65799,enriched,True,2019,GECCO,Core EC conferences,2016-2020,True,False,neuroevolution
+33197,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,other
+84171,enriched,True,2024,INS,Mixed journals,2021-2025,True,False,other
+47574,random,False,2025,ESWA,Mixed journals,2021-2025,False,True,other
+94667,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+24027,enriched,True,2014,ECJ,Core EC journals,<=2015,True,False,neuroevolution
+15030,enriched,True,2006,CEC,Core EC conferences,<=2015,True,False,hybrid
+94911,random,False,2015,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+17681,random,False,2010,CEC,Core EC conferences,<=2015,False,True,other
+104564,random,False,2025,TEVC,Core EC journals,2021-2025,False,True,other
+59879,enriched,True,2022,EVOINT,Core EC journals,2021-2025,True,False,dl_native
+38242,enriched,True,2019,ESWA,Mixed journals,2016-2020,True,False,other
+10279,enriched,True,2025,ASOC,Mixed journals,2021-2025,True,False,dl_native
+939,random,False,2009,ASOC,Mixed journals,<=2015,False,True,other
+122603,random,False,2005,INS,Mixed journals,<=2015,False,True,other
+89668,random,False,2000,INS,Mixed journals,<=2015,False,True,other
+105612,random,False,2009,TEVC,Core EC journals,<=2015,False,True,other
+23289,random,False,2019,CIM,Mixed journals,2016-2020,False,True,other
+82093,enriched,True,2022,INS,Mixed journals,2021-2025,True,False,other
+26709,enriched,True,2007,ESWA,Mixed journals,<=2015,True,False,other
+70187,enriched,True,2021,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+3836,enriched,True,2012,ASOC,Mixed journals,<=2015,True,False,other
+60150,enriched,True,2019,EVOINT,Core EC journals,2016-2020,True,False,neuroevolution
+37750,random,False,2020,ESWA,Mixed journals,2016-2020,False,True,other
+59920,enriched,True,2023,EVOINT,Core EC journals,2021-2025,True,False,other
+15561,enriched,True,2005,CEC,Core EC conferences,<=2015,True,False,hybrid
+36018,enriched,True,2021,ESWA,Mixed journals,2021-2025,True,False,other
+117849,enriched,True,2001,CEC,Core EC conferences,<=2015,True,False,hybrid
+102101,enriched,True,2018,SWEVC,Core EC journals,2016-2020,True,False,other
+120282,enriched,True,2011,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+73088,enriched,True,2013,INS,Mixed journals,<=2015,True,False,other
+46284,random,False,2024,ESWA,Mixed journals,2021-2025,False,True,other
+95528,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+57311,random,False,2007,EUROGP,Core EC conferences,<=2015,False,True,neuroevolution
+37894,random,False,2021,ESWA,Mixed journals,2021-2025,False,True,other
+32418,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,other
+120394,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,neuroevolution
+87694,enriched,True,2025,INS,Mixed journals,2021-2025,True,False,hybrid
+35935,random,False,2021,ESWA,Mixed journals,2021-2025,False,True,other
+68988,random,False,2024,GECCO,Core EC conferences,2021-2025,False,True,other
+75842,random,False,2006,INS,Mixed journals,<=2015,False,True,other
+31701,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,neuroevolution
+18835,enriched,True,2019,CEC,Core EC conferences,2016-2020,True,False,neuroevolution
+5451,enriched,True,2019,ASOC,Mixed journals,2016-2020,True,False,neuroevolution
+96130,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+25112,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,dl_native
+98462,random,False,2020,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+25296,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,other
+34838,enriched,True,2016,ESWA,Mixed journals,2016-2020,True,False,hybrid
+71131,enriched,True,2022,ICSI,Core EC conferences,2021-2025,True,False,dl_native
+104809,random,False,2022,TEVC,Core EC journals,2021-2025,False,True,other
+65996,random,False,2019,GECCO,Core EC conferences,2016-2020,False,True,other
+96370,random,True,2013,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+3802,enriched,True,2013,ASOC,Mixed journals,<=2015,True,False,hybrid
+30156,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,dl_native
+18495,random,False,2019,CEC,Core EC conferences,2016-2020,False,True,other
+94841,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+91195,random,False,2021,MEMETIC,Core EC journals,2021-2025,False,True,other
+65489,enriched,True,2020,GECCO,Core EC conferences,2016-2020,True,False,neuroevolution
+478,random,False,2011,ASOC,Mixed journals,<=2015,False,True,other
+91763,random,False,2021,NATCOMP,Mixed journals,2021-2025,False,True,other
+60201,enriched,True,2014,EVOINT,Core EC journals,<=2015,True,False,neuroevolution
+96560,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+98193,random,False,2021,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+33581,random,False,2018,ESWA,Mixed journals,2016-2020,False,True,other
+41059,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,dl_native
+6852,random,True,2023,ASOC,Mixed journals,2021-2025,True,False,dl_native
+78990,random,False,2020,INS,Mixed journals,2016-2020,False,True,other
+99046,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+99089,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+71823,random,False,2016,ICSI,Core EC conferences,2016-2020,False,True,other
+99014,enriched,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+104368,enriched,True,2025,TEVC,Core EC journals,2021-2025,True,False,hybrid
+101271,random,False,2023,SWEVC,Core EC journals,2021-2025,False,True,other
+98929,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+60287,enriched,True,2010,EVOINT,Core EC journals,<=2015,True,False,other
+118710,random,False,2003,CEC,Core EC conferences,<=2015,False,True,other
+100616,random,False,2025,SWEVC,Core EC journals,2021-2025,False,True,hybrid
+43335,random,False,2024,ESWA,Mixed journals,2021-2025,False,True,other
+22552,random,False,2020,CEC,Core EC conferences,2016-2020,False,True,other
+118578,random,False,2003,CEC,Core EC conferences,<=2015,False,True,other
+25559,random,True,2009,ESWA,Mixed journals,<=2015,True,False,other
+120802,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+104750,enriched,True,2023,TEVC,Core EC journals,2021-2025,True,False,hybrid
+27836,random,False,2011,ESWA,Mixed journals,<=2015,False,True,other
+29464,random,False,2010,ESWA,Mixed journals,<=2015,False,True,other
+12098,enriched,True,2024,ASOC,Mixed journals,2021-2025,True,False,dl_native
+119371,enriched,True,2011,CEC,Core EC conferences,<=2015,True,False,hybrid
+29389,enriched,True,2010,ESWA,Mixed journals,<=2015,True,False,dl_native
+80374,random,False,2018,INS,Mixed journals,2016-2020,False,True,other
+118065,random,False,2002,CEC,Core EC conferences,<=2015,False,True,other
+70965,enriched,True,2024,ICSI,Core EC conferences,2021-2025,True,False,dl_native
+82035,enriched,True,2022,INS,Mixed journals,2021-2025,True,False,dl_native
+1216,enriched,True,2007,ASOC,Mixed journals,<=2015,True,False,dl_native
+101499,random,False,2023,SWEVC,Core EC journals,2021-2025,False,True,other
+95780,enriched,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,neuroevolution
+96486,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+84003,random,False,2021,INS,Mixed journals,2021-2025,False,True,other
+79,random,False,2024,ACMTELO,Core EC journals,2021-2025,False,True,other
+69257,enriched,True,2023,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+18050,enriched,True,2008,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+59776,enriched,True,2022,EVOINT,Core EC journals,2021-2025,True,False,neuroevolution
+38202,enriched,True,2020,ESWA,Mixed journals,2016-2020,True,False,other
+95734,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+105922,enriched,True,2004,TEVC,Core EC journals,<=2015,True,False,other
+95663,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+105317,random,False,2016,TEVC,Core EC journals,2016-2020,False,True,other
+97498,random,False,2023,SSCI,SSCI (mixed conf.),2021-2025,False,True,dl_native
+90084,enriched,True,1997,INS,Mixed journals,<=2015,True,False,dl_native
+64980,enriched,True,2008,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+106104,enriched,True,2000,TEVC,Core EC journals,<=2015,True,False,neuroevolution
+93667,enriched,True,2000,PPSN,Core EC conferences,<=2015,True,False,other
+10960,enriched,True,2024,ASOC,Mixed journals,2021-2025,True,False,other
+23965,random,False,2016,ECJ,Core EC journals,2016-2020,False,True,other
+10647,enriched,True,2024,ASOC,Mixed journals,2021-2025,True,False,dl_native
+41369,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,dl_native
+92640,random,False,2020,PPSN,Core EC conferences,2016-2020,False,True,hybrid
+74972,random,False,2009,INS,Mixed journals,<=2015,False,True,other
+65920,random,False,2019,GECCO,Core EC conferences,2016-2020,False,True,other
+94710,enriched,True,2016,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+116689,random,False,2005,ECJ,Core EC journals,<=2015,False,True,other
+35957,random,False,2021,ESWA,Mixed journals,2021-2025,False,True,other
+98987,random,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+27408,random,False,2005,ESWA,Mixed journals,<=2015,False,True,other
+9893,enriched,True,2025,ASOC,Mixed journals,2021-2025,True,False,other
+70504,random,False,2020,GPEM,Core EC journals,2016-2020,False,True,other
+89427,enriched,True,2002,INS,Mixed journals,<=2015,True,False,dl_native
+40923,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,other
+59890,enriched,True,2022,EVOINT,Core EC journals,2021-2025,True,False,other
+125289,random,False,2012,INS,Mixed journals,<=2015,False,True,other
+82619,enriched,True,2022,INS,Mixed journals,2021-2025,True,False,dl_native
+82832,random,False,2021,INS,Mixed journals,2021-2025,False,True,other
+73032,random,False,2013,INS,Mixed journals,<=2015,False,True,other
+15508,random,False,2005,CEC,Core EC conferences,<=2015,False,True,other
+105446,random,False,2013,TEVC,Core EC journals,<=2015,False,True,other
+97306,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+98344,random,False,2021,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+99061,enriched,True,2019,SSCI,SSCI (mixed conf.),2016-2020,True,False,other
+59837,random,False,2022,EVOINT,Core EC journals,2021-2025,False,True,other
+7382,random,False,2022,ASOC,Mixed journals,2021-2025,False,True,other
+11965,random,False,2024,ASOC,Mixed journals,2021-2025,False,True,other
+28973,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,dl_native
+119194,random,False,2011,CEC,Core EC conferences,<=2015,False,True,other
+105531,random,False,2011,TEVC,Core EC journals,<=2015,False,True,other
+95290,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+59511,enriched,True,2023,EVOINT,Core EC journals,2021-2025,True,False,dl_native
+104594,enriched,True,2023,TEVC,Core EC journals,2021-2025,True,False,neuroevolution
+96391,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+30868,random,False,2014,ESWA,Mixed journals,<=2015,False,True,other
+23577,enriched,True,2011,CIM,Mixed journals,<=2015,True,False,other
+28258,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,other
+76373,random,False,2016,INS,Mixed journals,2016-2020,False,True,other
+33183,random,False,2012,ESWA,Mixed journals,<=2015,False,True,other
+95368,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+101771,random,False,2021,SWEVC,Core EC journals,2021-2025,False,True,other
+18183,random,False,2008,CEC,Core EC conferences,<=2015,False,True,other
+48177,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+84561,enriched,True,2024,INS,Mixed journals,2021-2025,True,False,dl_native
+41255,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,dl_native
+59852,enriched,True,2022,EVOINT,Core EC journals,2021-2025,True,False,hybrid
+21469,enriched,True,2025,CEC,Core EC conferences,2021-2025,True,False,hybrid
+97956,random,False,2022,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+104517,random,False,2025,TEVC,Core EC journals,2021-2025,False,True,neuroevolution
+106059,enriched,True,2001,TEVC,Core EC journals,<=2015,True,False,neuroevolution
+18138,random,False,2008,CEC,Core EC conferences,<=2015,False,True,other
+76998,random,False,2016,INS,Mixed journals,2016-2020,False,True,other
+59585,enriched,True,2024,EVOINT,Core EC journals,2021-2025,True,False,dl_native
+20319,random,False,2015,CEC,Core EC conferences,<=2015,False,True,other
+42739,enriched,True,2023,ESWA,Mixed journals,2021-2025,True,False,neuroevolution
+88675,enriched,True,2025,INS,Mixed journals,2021-2025,True,False,dl_native
+96063,random,False,2013,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+32225,enriched,True,2012,ESWA,Mixed journals,<=2015,True,False,other
+14948,enriched,True,2006,CEC,Core EC conferences,<=2015,True,False,hybrid
+24064,enriched,True,2012,ECJ,Core EC journals,<=2015,True,False,other
+67372,random,False,2015,GECCO,Core EC conferences,<=2015,False,True,other
+89902,enriched,True,1998,INS,Mixed journals,<=2015,True,False,other
+99638,random,False,2017,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+29408,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,other
+57130,random,False,2011,EUROGP,Core EC conferences,<=2015,False,True,other
+26679,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,dl_native
+104222,random,False,2025,TEVC,Core EC journals,2021-2025,False,True,other
+22131,enriched,True,2022,CEC,Core EC conferences,2021-2025,True,False,dl_native
+16640,enriched,True,2012,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+91025,random,False,2024,MEMETIC,Core EC journals,2021-2025,False,True,other
+28403,random,False,2011,ESWA,Mixed journals,<=2015,False,True,other
+120535,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+27188,enriched,True,2006,ESWA,Mixed journals,<=2015,True,False,dl_native
+106113,random,True,2000,TEVC,Core EC journals,<=2015,True,False,other
+99125,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+85891,enriched,True,2023,INS,Mixed journals,2021-2025,True,False,dl_native
+60249,random,False,2012,EVOINT,Core EC journals,<=2015,False,True,other
+100570,random,False,2025,SWEVC,Core EC journals,2021-2025,False,True,hybrid
+32499,random,True,2012,ESWA,Mixed journals,<=2015,True,False,neuroevolution
+70600,random,False,2014,GPEM,Core EC journals,<=2015,False,True,other
+101294,random,False,2023,SWEVC,Core EC journals,2021-2025,False,True,other
+97231,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+120699,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+18403,random,False,2019,CEC,Core EC conferences,2016-2020,False,True,other
+101175,random,False,2024,SWEVC,Core EC journals,2021-2025,False,True,other
+39726,random,False,2022,ESWA,Mixed journals,2021-2025,False,True,other
+97753,enriched,True,2023,SSCI,SSCI (mixed conf.),2021-2025,True,False,hybrid
+101991,random,False,2019,SWEVC,Core EC journals,2016-2020,False,True,other
+99473,enriched,True,2018,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+74000,enriched,True,2011,INS,Mixed journals,<=2015,True,False,other
+120623,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+96873,enriched,True,2009,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+104826,random,False,2022,TEVC,Core EC journals,2021-2025,False,True,other
+97007,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+74482,enriched,True,2012,INS,Mixed journals,<=2015,True,False,dl_native
+68203,enriched,True,2025,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+12397,random,False,2024,ASOC,Mixed journals,2021-2025,False,True,other
+96048,enriched,True,2013,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+101682,random,False,2020,SWEVC,Core EC journals,2016-2020,False,True,other
+61347,random,False,2006,GECCO,Core EC conferences,<=2015,False,True,other
+69662,random,False,2022,GECCO,Core EC conferences,2021-2025,False,True,other
+124680,random,False,2010,INS,Mixed journals,<=2015,False,True,other
+59896,enriched,True,2022,EVOINT,Core EC journals,2021-2025,True,False,hybrid
+4443,enriched,True,2019,ASOC,Mixed journals,2016-2020,True,False,dl_native
+15420,random,False,2005,CEC,Core EC conferences,<=2015,False,True,other
+69726,random,False,2022,GECCO,Core EC conferences,2021-2025,False,True,other
+26171,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,dl_native
+63419,random,False,2011,GECCO,Core EC conferences,<=2015,False,True,other
+97518,random,False,2023,SSCI,SSCI (mixed conf.),2021-2025,False,True,dl_native
+31730,random,False,2012,ESWA,Mixed journals,<=2015,False,True,other
+100331,random,False,2008,SWARMINT,Core EC journals,<=2015,False,True,other
+104481,random,False,2025,TEVC,Core EC journals,2021-2025,False,True,other
+88435,random,False,2025,INS,Mixed journals,2021-2025,False,True,other
+91203,random,False,2020,MEMETIC,Core EC journals,2016-2020,False,True,other
+70463,random,False,2020,GPEM,Core EC journals,2016-2020,False,True,other
+57978,enriched,True,2019,EVOAPP,Core EC conferences,2016-2020,True,False,other
+15066,random,False,2006,CEC,Core EC conferences,<=2015,False,True,other
+35737,enriched,True,2015,ESWA,Mixed journals,<=2015,True,False,dl_native
+31484,enriched,True,2013,ESWA,Mixed journals,<=2015,True,False,hybrid
+99252,random,False,2019,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+99864,random,True,2017,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+28320,random,False,2011,ESWA,Mixed journals,<=2015,False,True,hybrid
+18796,random,False,2019,CEC,Core EC conferences,2016-2020,False,True,other
+60172,enriched,True,2018,EVOINT,Core EC journals,2016-2020,True,False,dl_native
+63317,enriched,True,2011,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+98275,random,False,2021,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+117933,enriched,True,2001,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+124761,random,False,2011,INS,Mixed journals,<=2015,False,True,other
+27298,enriched,True,2006,ESWA,Mixed journals,<=2015,True,False,dl_native
+25802,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,dl_native
+86700,enriched,True,2023,INS,Mixed journals,2021-2025,True,False,other
+31971,enriched,True,2013,ESWA,Mixed journals,<=2015,True,False,other
+43267,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,other
+97354,enriched,True,2007,SSCI,SSCI (mixed conf.),<=2015,True,False,neuroevolution
+120637,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+70672,random,False,2012,GPEM,Core EC journals,<=2015,False,True,neuroevolution
+25910,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,neuroevolution
+70198,enriched,True,2021,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+15848,enriched,True,2013,CEC,Core EC conferences,<=2015,True,False,neuroevolution
+120465,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+86128,enriched,True,2023,INS,Mixed journals,2021-2025,True,False,other
+10420,enriched,True,2025,ASOC,Mixed journals,2021-2025,True,False,dl_native
+100688,enriched,True,2025,SWEVC,Core EC journals,2021-2025,True,False,dl_native
+66029,random,False,2019,GECCO,Core EC conferences,2016-2020,False,True,other
+79866,enriched,True,2020,INS,Mixed journals,2016-2020,True,False,dl_native
+57661,random,False,2025,EVOAPP,Core EC conferences,2021-2025,False,True,other
+120690,random,False,2011,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+69491,random,False,2022,GECCO,Core EC conferences,2021-2025,False,True,neuroevolution
+89963,enriched,True,1998,INS,Mixed journals,<=2015,True,False,dl_native
+101439,random,False,2023,SWEVC,Core EC journals,2021-2025,False,True,hybrid
+25398,enriched,True,2009,ESWA,Mixed journals,<=2015,True,False,other
+26462,random,False,2008,ESWA,Mixed journals,<=2015,False,True,other
+47781,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,other
+67414,random,False,2015,GECCO,Core EC conferences,<=2015,False,True,hybrid
+40286,enriched,True,2022,ESWA,Mixed journals,2021-2025,True,False,other
+10014,random,False,2025,ASOC,Mixed journals,2021-2025,False,True,other
+59299,enriched,True,2024,EVOINT,Core EC journals,2021-2025,True,False,dl_native
+58,enriched,True,2025,ACMTELO,Core EC journals,2021-2025,True,False,hybrid
+59873,random,False,2022,EVOINT,Core EC journals,2021-2025,False,True,other
+5284,enriched,True,2019,ASOC,Mixed journals,2016-2020,True,False,hybrid
+91104,random,False,2023,MEMETIC,Core EC journals,2021-2025,False,True,other
+96791,random,False,2009,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+95703,enriched,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,other
+31799,random,False,2014,ESWA,Mixed journals,<=2015,False,True,other
+85424,random,True,2024,INS,Mixed journals,2021-2025,True,False,dl_native
+97625,random,False,2023,SSCI,SSCI (mixed conf.),2021-2025,False,True,dl_native
+102444,enriched,True,2013,SWEVC,Core EC journals,<=2015,True,False,neuroevolution
+63490,enriched,True,2011,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+18249,random,False,2008,CEC,Core EC conferences,<=2015,False,True,other
+27434,enriched,True,2005,ESWA,Mixed journals,<=2015,True,False,dl_native
+98294,random,False,2021,SSCI,SSCI (mixed conf.),2021-2025,False,True,other
+68165,enriched,True,2025,GECCO,Core EC conferences,2021-2025,True,False,other
+92827,random,False,2014,PPSN,Core EC conferences,<=2015,False,True,other
+96283,enriched,True,2014,SSCI,SSCI (mixed conf.),<=2015,True,False,dl_native
+119332,random,False,2011,CEC,Core EC conferences,<=2015,False,True,other
+34413,enriched,True,2017,ESWA,Mixed journals,2016-2020,True,False,dl_native
+18583,enriched,True,2019,CEC,Core EC conferences,2016-2020,True,False,hybrid
+26575,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,other
+105574,random,False,2010,TEVC,Core EC journals,<=2015,False,True,other
+2371,enriched,True,2015,ASOC,Mixed journals,<=2015,True,False,dl_native
+70439,enriched,True,2023,GPEM,Core EC journals,2021-2025,True,False,neuroevolution
+18655,random,False,2019,CEC,Core EC conferences,2016-2020,False,True,other
+119912,enriched,True,2012,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+60025,random,True,2021,EVOINT,Core EC journals,2021-2025,True,False,hybrid
+95599,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+18898,random,False,2018,CEC,Core EC conferences,2016-2020,False,True,other
+99337,enriched,True,2018,SSCI,SSCI (mixed conf.),2016-2020,True,False,dl_native
+95166,random,False,2014,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+101472,random,False,2022,SWEVC,Core EC journals,2021-2025,False,True,other
+27184,random,False,2007,ESWA,Mixed journals,<=2015,False,True,other
+105910,enriched,True,2004,TEVC,Core EC journals,<=2015,True,False,neuroevolution
+125198,random,False,2012,INS,Mixed journals,<=2015,False,True,other
+104092,random,False,2025,TEVC,Core EC journals,2021-2025,False,True,other
+81733,enriched,True,2022,INS,Mixed journals,2021-2025,True,False,dl_native
+99458,random,False,2018,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+45643,enriched,True,2024,ESWA,Mixed journals,2021-2025,True,False,dl_native
+118207,random,False,2002,CEC,Core EC conferences,<=2015,False,True,other
+60255,random,False,2011,EVOINT,Core EC journals,<=2015,False,True,other
+80375,enriched,True,2019,INS,Mixed journals,2016-2020,True,False,dl_native
+69060,enriched,True,2023,GECCO,Core EC conferences,2021-2025,True,False,neuroevolution
+27833,enriched,True,2011,ESWA,Mixed journals,<=2015,True,False,other
+102707,enriched,True,2025,TETCI,Mixed journals,2021-2025,True,False,dl_native
+2475,random,False,2015,ASOC,Mixed journals,<=2015,False,True,other
+770,enriched,True,2010,ASOC,Mixed journals,<=2015,True,False,neuroevolution
+70017,random,False,2021,GECCO,Core EC conferences,2021-2025,False,True,other
+75474,enriched,True,2009,INS,Mixed journals,<=2015,True,False,dl_native
+119104,random,False,2011,CEC,Core EC conferences,<=2015,False,True,other
+68283,enriched,True,2025,GECCO,Core EC conferences,2021-2025,True,False,hybrid
+20143,random,False,2016,CEC,Core EC conferences,2016-2020,False,True,other
+95129,random,False,2015,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+60997,enriched,True,2006,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+47774,enriched,True,2025,ESWA,Mixed journals,2021-2025,True,False,dl_native
+26665,enriched,True,2008,ESWA,Mixed journals,<=2015,True,False,dl_native
+61045,enriched,True,2007,GECCO,Core EC conferences,<=2015,True,False,neuroevolution
+77548,random,False,2015,INS,Mixed journals,<=2015,False,True,other
+97243,random,False,2007,SSCI,SSCI (mixed conf.),<=2015,False,True,other
+94513,random,False,2016,SSCI,SSCI (mixed conf.),2016-2020,False,True,other
+58226,random,False,2015,EVOAPP,Core EC conferences,<=2015,False,True,hybrid
+99465,random,False,2018,SSCI,SSCI (mixed conf.),2016-2020,False,True,other

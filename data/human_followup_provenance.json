@@ -1,0 +1,23 @@
+{
+  "status": "expert_manual_labels_complete",
+  "confirmation": "Investigators confirm that all follow-up labels were manually supplied by human experts.",
+  "role": {
+    "n": 800,
+    "source_sha256": "c9d805c24f315e1497ac64e111a619dee5334e1c5b0f3a447968a224d065a3e6",
+    "distributed_protected_fields_unchanged": true,
+    "unresolved_flags": 0
+  },
+  "m1": {
+    "n": 200,
+    "source_sha256": "fde146424b842013ce5d3e0a07f0d7f3ae2831445578d78f422d956fefb3eefa",
+    "distributed_protected_fields_unchanged": true,
+    "unresolved_flags": 0
+  },
+  "distinct_papers": 991,
+  "expert_identities_recorded": false,
+  "exact_annotation_dates_recorded": false,
+  "inter_expert_agreement_measured": false,
+  "sampling_seed": 42,
+  "sampling_rng": "single sequential numpy default_rng, not reset between strata",
+  "no_source_text_redistributed": true
+}

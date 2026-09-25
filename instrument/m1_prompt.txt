@@ -1,0 +1,24 @@
+You are an expert annotator in evolutionary computation (EC). Code the paper below based ONLY on its title and abstract.
+
+M1 contribution type — pick ONE primary label (and at most one secondary, else null):
+- propose_new: a new algorithm/framework/operator is the main contribution
+- improve: modification of an existing algorithm (operators, parameters, strategies); the algorithm itself stays
+- apply: known methods applied to a new problem/domain; novelty is in the application
+- hybrid: combination of >=2 DISTINCT paradigms (e.g., GA + local search, NN + EC); combining two operators of the same algorithm is "improve"
+- theory: convergence / runtime / complexity / landscape analysis as the main contribution
+- benchmark: empirical comparison or evaluation methodology as the main contribution
+- review: survey of a topic
+- other: none of the above; do NOT guess when the abstract is uninformative
+
+M2 entity extraction — extract ONLY algorithms and problems that appear as the METHOD or the EXPERIMENTAL SUBJECT of this paper; mere background mentions do NOT count. When unsure, leave it out.
+- algorithms: evolutionary / swarm / optimization algorithms and variants. "raw" = as written in the abstract; "norm" = canonical lowercase singular name with abbreviations expanded ("GA" -> "genetic algorithm"; "NSGA-II" stays "nsga-ii"; variants keep suffix under the parent, e.g. "moead-de").
+- problems: problems / tasks / benchmark suites being solved; same normalization ("TSP" -> "traveling salesman problem"; keep benchmark year ids, e.g. "cec2005"; application domains lowercase as-is, e.g. "feature selection").
+
+llm_related: true only if a large language model (LLM, GPT, prompt engineering, language model as optimizer/generator) is part of the METHOD or the EXPERIMENTAL SUBJECT; background mentions = false.
+
+Return STRICT JSON (no markdown fences, no commentary) with exactly these keys:
+{{"contribution_primary": ..., "contribution_secondary": ..., "algorithms": [{{"raw": ..., "norm": ...}}], "problems": [{{"raw": ..., "norm": ...}}], "llm_related": ...}}
+
+Paper metadata: venue={venue}, year={year}
+Title: {title}
+Abstract: {abstract}

@@ -1,0 +1,21 @@
+You are an expert annotator in evolutionary computation (EC) and deep learning (DL). Code the paper below based ONLY on its title and abstract.
+
+Question: what role do deep learning / neural network (NN) methods play in this paper's contribution? Pick exactly ONE label:
+
+- dl_native: DL/NN is the core methodological substance of the paper and there is NO substantive combination with EC methods. This is genuine outside-in DL penetration into an EC venue (a new DL/NN model or improvement, or DL/NN applied as the working method to a problem). Large language models (LLM, GPT, prompt engineering) count as NN/DL methods.
+- neuroevolution: an EC method (genetic algorithm, evolution strategy, genetic programming, differential evolution, particle swarm optimization, estimation-of-distribution algorithm, etc.) is used to optimize or evolve a neural network - its architecture, weights, hyperparameters, or rules. The NN is the OBJECT being optimized/evolved by EC. This is EC's own tradition and does NOT count as DL penetration, even if the words "deep learning" or "deep neural network" appear.
+- hybrid: DL/NN and EC methods are substantively COMBINED and both are essential to the contribution (e.g., DL assists EC operators or fitness evaluation, learned surrogate models inside an evolutionary algorithm, EC optimizes a DL training pipeline beyond plain hyperparameter search).
+- other: cannot be judged from title+abstract, abstract uninformative, survey/review without a single method contribution, or DL/NN appears only as background/related work without any methodological role.
+
+Decision rules (apply in order):
+1. If an EC algorithm optimizes/evolves/trains/tunes a NN => neuroevolution.
+2. Else if both an EC method and a DL/NN method are working components of the paper's method => hybrid.
+3. Else if DL/NN is the working method and no EC method is involved => dl_native.
+4. Else => other.
+
+Return STRICT JSON only (no markdown fences, no commentary), exactly:
+{{"label": "dl_native|neuroevolution|hybrid|other", "reason": "<= 20 words"}}
+
+Paper metadata: venue={venue}, year={year}
+Title: {title}
+Abstract: {abstract}

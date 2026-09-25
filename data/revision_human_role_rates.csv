@@ -1,0 +1,5 @@
+group,denominator,point_pct,lower_pct,upper_pct,target,family_size
+Core EC conferences,4760,5.108250572956456,2.0168067226890756,17.5,expert-labelled role under specified sampling design; old hit-stage working SRS assumptions retained,24
+Core EC journals,3171,8.602392411038704,3.9419741406496374,18.921475875118258,expert-labelled role under specified sampling design; old hit-stage working SRS assumptions retained,24
+Mixed journals,26552,41.69077031234307,29.918650195842122,53.60048207291353,expert-labelled role under specified sampling design; old hit-stage working SRS assumptions retained,24
+SSCI (mixed conf.),882,39.4421768707483,27.09750566893424,49.43310657596372,expert-labelled role under specified sampling design; old hit-stage working SRS assumptions retained,24

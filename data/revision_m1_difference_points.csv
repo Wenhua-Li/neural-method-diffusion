@@ -1,0 +1,7 @@
+scope,window,n,gold_in_domain,machine_pct,human_difference_raw_pct,correction_count,limitation,working_design_se_pp,working_normal_diagnostic_lo,working_normal_diagnostic_hi
+target_nonempty,1996-2000,1282,35,49.141965678627145,46.65453896166995,-31.88881051139115,two-stage SRS working-design point; no zero-error bootstrap or nominal precision claim,4.774522363565891,37.296475129080804,56.012602794259095
+target_nonempty,2021-2025,35364,39,74.7115710892433,80.0778075581694,1897.71586487102,two-stage SRS working-design point; no zero-error bootstrap or nominal precision claim,5.134911150537376,70.01338170311614,90.14223341322266
+core_nonempty,1996-2000,680,17,54.705882352941174,54.07248076953959,-4.307130767130767,two-stage SRS working-design point; no zero-error bootstrap or nominal precision claim,1.5929306038946516,50.950336785906075,57.1946247531731
+core_nonempty,2021-2025,7930,5,69.97477931904162,59.925644945582924,-796.8963558152747,two-stage SRS working-design point; no zero-error bootstrap or nominal precision claim,10.064081665409276,40.20004488138075,79.6512450097851
+ec_nonempty,1996-2000,736,19,55.57065217391305,54.98544418924853,-4.307130767130767,two-stage SRS working-design point; no zero-error bootstrap or nominal precision claim,1.4717293622939716,52.100854639152345,57.87003373934472
+ec_nonempty,2021-2025,12082,10,75.6745571925178,69.07882506360474,-796.8963558152747,two-stage SRS working-design point; no zero-error bootstrap or nominal precision claim,6.605542758375729,56.13196125718831,82.02568887002117

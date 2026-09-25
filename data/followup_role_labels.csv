@@ -1,0 +1,801 @@
+case_id,corpus_id,human_label,uncertain,task,stratum,N,n,pi,year,venue_abbr
+NCV-0001,22064,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,CEC
+NCV-0002,59423,dl_native,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0003,101713,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2022,SWEVC
+NCV-0004,69778,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0005,49531,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,ESWA
+NCV-0007,21577,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,CEC
+NCV-0008,101489,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,SWEVC
+NCV-0009,37393,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ESWA
+NCV-0011,57853,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,EVOAPP
+NCV-0012,44968,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0014,101771,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,SWEVC
+NCV-0015,98194,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0016,104769,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,TEVC
+NCV-0017,68968,neuroevolution,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0018,97768,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0021,98088,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0023,101121,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0024,97931,hybrid,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0025,59737,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,EVOINT
+NCV-0026,97714,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0030,46744,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0031,68719,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0033,21688,other,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,CEC
+NCV-0034,49310,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0035,59857,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,EVOINT
+NCV-0036,97795,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0037,69262,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0038,97757,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0039,45162,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0040,46042,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0041,70037,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2021,GECCO
+NCV-0042,36378,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ESWA
+NCV-0043,97817,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0044,101261,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,SWEVC
+NCV-0045,59719,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,EVOINT
+NCV-0046,97802,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0047,44537,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0048,98210,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0049,71079,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,ICSI
+NCV-0050,8800,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,ASOC
+NCV-0051,21829,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0053,83020,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,INS
+NCV-0055,97869,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0056,59539,dl_native,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0057,97766,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0058,21685,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0059,68958,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0060,98089,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0061,98348,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0062,98358,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0065,69743,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0066,104122,hybrid,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0067,21361,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,CEC
+NCV-0070,97860,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0071,69608,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0072,100383,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0074,92364,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,PPSN
+NCV-0075,71142,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,ICSI
+NCV-0076,41173,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ESWA
+NCV-0077,39747,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0078,104625,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,TEVC
+NCV-0079,98188,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0082,97732,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0084,97574,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0085,23824,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,ECJ
+NCV-0087,97950,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0088,59576,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,EVOINT
+NCV-0090,40921,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0091,56852,other,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,EUROGP
+NCV-0092,97905,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0093,9739,neuroevolution,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,ASOC
+NCV-0095,56877,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,EUROGP
+NCV-0096,69916,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,GECCO
+NCV-0099,24256,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,EMO
+NCV-0100,86000,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,INS
+NCV-0101,21972,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,CEC
+NCV-0102,98013,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0103,97975,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0104,98339,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0105,47357,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0106,47814,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0107,9303,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ASOC
+NCV-0108,21703,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0109,69132,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0110,22043,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,CEC
+NCV-0111,68246,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0112,57757,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,EVOAPP
+NCV-0113,97691,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0114,59404,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,EVOINT
+NCV-0115,98223,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0116,98329,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0117,97935,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0118,97621,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0119,97870,neuroevolution,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0120,101060,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2024,SWEVC
+NCV-0121,48892,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,ESWA
+NCV-0122,80,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,ACMTELO
+NCV-0123,97575,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0124,98053,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0125,69363,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0126,97894,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0129,98276,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0130,9350,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ASOC
+NCV-0131,104323,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0133,59720,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,EVOINT
+NCV-0136,45855,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0137,59183,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0138,8628,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ASOC
+NCV-0139,10342,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ASOC
+NCV-0140,98252,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0141,21586,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,CEC
+NCV-0142,67899,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0143,23840,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,ECJ
+NCV-0144,69205,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0146,97636,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0151,69786,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,GECCO
+NCV-0153,23848,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,ECJ
+NCV-0154,97685,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0155,22237,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,CEC
+NCV-0157,7163,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ASOC
+NCV-0158,46473,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0159,42452,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ESWA
+NCV-0160,49925,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0161,97639,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0163,86561,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,INS
+NCV-0165,101361,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,SWEVC
+NCV-0166,97871,neuroevolution,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0167,59970,dl_native,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,EVOINT
+NCV-0168,97762,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0169,104633,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,TEVC
+NCV-0170,104666,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,TEVC
+NCV-0171,70399,other,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,GPEM
+NCV-0172,97896,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0173,6957,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ASOC
+NCV-0174,97717,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0176,12115,hybrid,,role,Mixed journals|enriched,2156,50,0.023191094619666,2024,ASOC
+NCV-0177,98298,neuroevolution,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0178,97810,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0179,103091,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,TETCI
+NCV-0180,98106,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0181,100975,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0182,97930,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0183,67867,other,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,GECCO
+NCV-0184,101773,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,SWEVC
+NCV-0185,8331,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ASOC
+NCV-0189,97814,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0191,46435,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0192,98002,neuroevolution,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0193,49095,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0194,59577,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2024,EVOINT
+NCV-0195,59917,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2021,EVOINT
+NCV-0197,104792,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,TEVC
+NCV-0198,59630,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0199,97874,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0200,100121,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWARMINT
+NCV-0201,100792,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0202,56868,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,EUROGP
+NCV-0203,98093,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0204,68528,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0205,47191,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0206,104431,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0207,22360,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,CEC
+NCV-0208,21964,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,CEC
+NCV-0209,98031,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0210,100117,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWARMINT
+NCV-0211,86384,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,INS
+NCV-0212,97550,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0213,69621,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0215,21647,neuroevolution,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0216,60062,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2021,EVOINT
+NCV-0217,7941,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ASOC
+NCV-0219,70001,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,GECCO
+NCV-0220,87578,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,INS
+NCV-0221,97904,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0222,70247,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,GECCO
+NCV-0223,104570,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,TEVC
+NCV-0224,69995,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2021,GECCO
+NCV-0225,69279,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,GECCO
+NCV-0226,97850,neuroevolution,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0227,68487,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0228,69987,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,GECCO
+NCV-0229,21936,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,CEC
+NCV-0230,103142,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,TETCI
+NCV-0231,70437,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,GPEM
+NCV-0232,104215,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,TEVC
+NCV-0234,59541,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0236,68752,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0237,97484,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0238,104004,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0239,45435,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0240,98068,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0241,7698,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2022,ASOC
+NCV-0242,97670,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0243,100612,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0244,104750,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,TEVC
+NCV-0246,42862,other,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ESWA
+NCV-0248,71186,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,ICSI
+NCV-0249,68051,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0250,59983,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2021,EVOINT
+NCV-0251,102953,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2024,TETCI
+NCV-0253,87551,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,INS
+NCV-0254,59668,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,EVOINT
+NCV-0256,67776,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0257,7115,hybrid,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ASOC
+NCV-0259,98014,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0260,91029,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,MEMETIC
+NCV-0261,97959,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0262,69487,other,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,GECCO
+NCV-0265,24289,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,EMO
+NCV-0266,98079,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0267,70418,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,GPEM
+NCV-0268,97846,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0270,101645,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,SWEVC
+NCV-0271,44629,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0272,98319,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0273,104656,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,TEVC
+NCV-0274,104528,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,TEVC
+NCV-0275,90218,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,JOH
+NCV-0277,8708,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ASOC
+NCV-0278,98060,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0280,59896,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2022,EVOINT
+NCV-0281,98024,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0282,71160,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,ICSI
+NCV-0283,40171,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0284,97761,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0285,104228,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0286,69254,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0287,87974,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,INS
+NCV-0288,47315,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0289,104679,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,TEVC
+NCV-0291,8279,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ASOC
+NCV-0294,48494,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,ESWA
+NCV-0296,59736,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,EVOINT
+NCV-0298,116135,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,SOFTCOMP
+NCV-0299,11630,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ASOC
+NCV-0300,68046,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0301,82281,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,INS
+NCV-0302,97902,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0303,69684,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0306,59281,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,EVOINT
+NCV-0307,22272,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,CEC
+NCV-0308,70072,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2021,GECCO
+NCV-0309,36771,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,ESWA
+NCV-0310,104150,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0312,70297,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,GECCO
+NCV-0313,69592,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0314,98206,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0315,67897,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0317,59519,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2024,EVOINT
+NCV-0318,100986,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0320,102792,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,TETCI
+NCV-0321,58716,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,EVOCOP
+NCV-0322,59414,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2024,EVOINT
+NCV-0323,97648,neuroevolution,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0325,98183,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0328,81992,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,INS
+NCV-0329,68184,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,GECCO
+NCV-0330,104783,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,TEVC
+NCV-0331,91095,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,MEMETIC
+NCV-0332,101360,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2024,SWEVC
+NCV-0333,67989,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0334,84231,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,INS
+NCV-0335,41598,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0336,98320,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0338,59612,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,EVOINT
+NCV-0339,59704,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,EVOINT
+NCV-0340,59846,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,EVOINT
+NCV-0341,101013,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0343,97783,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0345,92473,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,PPSN
+NCV-0346,68237,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0347,67858,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0348,84419,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2024,INS
+NCV-0349,88170,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,INS
+NCV-0350,57812,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,EVOAPP
+NCV-0351,42792,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0352,100965,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0353,104814,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,TEVC
+NCV-0354,101475,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,SWEVC
+NCV-0355,101166,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0356,98313,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0357,41699,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0358,48949,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,ESWA
+NCV-0361,69304,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0362,69541,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0363,97564,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0364,97538,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0365,60047,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,EVOINT
+NCV-0366,98204,neuroevolution,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0367,98232,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0368,103828,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2022,TETCI
+NCV-0369,84078,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,INS
+NCV-0370,68255,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0371,22120,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,CEC
+NCV-0372,21414,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,CEC
+NCV-0374,40186,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0376,68056,other,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,GECCO
+NCV-0377,59886,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,EVOINT
+NCV-0379,69058,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0380,104873,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,TEVC
+NCV-0383,97945,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0385,97497,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0386,97481,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0388,68605,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0389,98297,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0390,12386,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ASOC
+NCV-0392,100393,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0393,101039,hybrid,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0394,11213,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ASOC
+NCV-0395,24263,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,EMO
+NCV-0396,97677,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0397,100915,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0398,57894,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,EVOAPP
+NCV-0400,82192,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,INS
+NCV-0401,47221,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0403,57741,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,EVOAPP
+NCV-0404,101319,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0405,104087,other,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,TEVC
+NCV-0406,97518,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0408,100697,hybrid,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0409,97559,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0410,98122,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0411,59524,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0412,10818,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ASOC
+NCV-0413,8773,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ASOC
+NCV-0414,97745,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0415,59726,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2022,EVOINT
+NCV-0416,69613,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0417,24226,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,EMO
+NCV-0418,98152,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0420,70975,dl_native,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,ICSI
+NCV-0421,98080,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0422,22042,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,CEC
+NCV-0423,103307,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,TETCI
+NCV-0424,83743,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,INS
+NCV-0425,97712,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0430,101179,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0433,67750,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0434,98005,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0436,97709,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0437,69033,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0438,100574,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0440,11053,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2024,ASOC
+NCV-0442,21902,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,CEC
+NCV-0443,48478,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0444,47896,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0445,41998,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0446,97947,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0447,98149,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0448,37227,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ESWA
+NCV-0449,10485,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ASOC
+NCV-0450,98100,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0451,47016,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0452,68914,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0453,49747,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0454,57703,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,EVOAPP
+NCV-0455,101473,other,,role,Core EC journals|enriched,194,50,0.2577319587628865,2022,SWEVC
+NCV-0456,104408,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,TEVC
+NCV-0457,97759,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0458,97828,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0460,36994,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ESWA
+NCV-0461,7243,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ASOC
+NCV-0462,69699,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0463,21522,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,CEC
+NCV-0465,101050,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,SWEVC
+NCV-0466,68563,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0467,97616,hybrid,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0468,21956,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,CEC
+NCV-0469,104043,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0470,88054,neuroevolution,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,INS
+NCV-0471,48651,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0472,97753,hybrid,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0473,97794,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0475,44049,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0476,101424,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,SWEVC
+NCV-0479,97773,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0481,85197,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,INS
+NCV-0482,101660,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,SWEVC
+NCV-0483,21888,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,CEC
+NCV-0486,69829,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0487,68332,hybrid,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,GECCO
+NCV-0488,68769,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0489,70102,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,GECCO
+NCV-0490,101589,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,SWEVC
+NCV-0491,42461,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0492,59890,other,,role,Core EC journals|enriched,194,50,0.2577319587628865,2022,EVOINT
+NCV-0494,100943,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0495,97725,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0496,97623,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0497,85567,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,INS
+NCV-0498,100653,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,SWEVC
+NCV-0499,48226,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0501,59700,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,EVOINT
+NCV-0502,104560,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,TEVC
+NCV-0503,48641,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0505,43714,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0506,67904,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,GECCO
+NCV-0508,45879,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0509,42957,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0510,21742,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0511,97775,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0512,104229,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0513,59859,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2022,EVOINT
+NCV-0515,84948,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2024,INS
+NCV-0516,22201,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,CEC
+NCV-0517,59880,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,EVOINT
+NCV-0518,97696,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0519,97553,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0520,7930,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ASOC
+NCV-0521,97581,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0522,59940,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,EVOINT
+NCV-0523,59344,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,EVOINT
+NCV-0524,68559,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0525,104542,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,TEVC
+NCV-0526,85408,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,INS
+NCV-0527,21473,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,CEC
+NCV-0528,68979,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,GECCO
+NCV-0529,97754,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0530,48756,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0531,97524,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0532,68529,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0533,21701,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0535,104917,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,TEVC
+NCV-0536,101160,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0537,83268,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,INS
+NCV-0538,68110,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,GECCO
+NCV-0539,97992,hybrid,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0540,57793,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,EVOAPP
+NCV-0541,59988,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,EVOINT
+NCV-0542,59825,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2021,EVOINT
+NCV-0543,39845,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0545,67932,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,GECCO
+NCV-0546,101125,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0547,21733,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0548,56913,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,EUROGP
+NCV-0550,10913,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ASOC
+NCV-0551,100699,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0552,67967,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0553,69428,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0556,22510,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,CEC
+NCV-0557,68034,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0558,104923,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,TEVC
+NCV-0559,98347,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0560,68834,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0561,98116,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0562,21560,hybrid,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,CEC
+NCV-0563,69856,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0564,59644,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,EVOINT
+NCV-0565,97972,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0566,98272,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0567,101320,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,SWEVC
+NCV-0568,100806,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0569,101433,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,SWEVC
+NCV-0570,69609,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0571,97857,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0572,97609,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0573,97986,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0574,68260,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0575,85884,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,INS
+NCV-0578,70434,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,GPEM
+NCV-0579,70299,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,GECCO
+NCV-0580,36200,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ESWA
+NCV-0581,69662,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0582,97721,other,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0584,100509,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0586,97842,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0587,69682,other,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,GECCO
+NCV-0588,98249,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0589,97769,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0590,98200,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0591,22325,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2021,CEC
+NCV-0592,97964,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0593,59439,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,EVOINT
+NCV-0594,97933,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0595,68833,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,GECCO
+NCV-0596,83088,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,INS
+NCV-0598,97613,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0599,97707,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0600,68937,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0601,97991,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0603,70015,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,GECCO
+NCV-0605,10324,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ASOC
+NCV-0607,98328,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0608,84708,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,INS
+NCV-0609,98337,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0611,97511,hybrid,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0613,98208,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0615,69073,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0616,98146,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0617,83438,other,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,INS
+NCV-0618,98203,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0619,91012,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,MEMETIC
+NCV-0621,68554,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0622,38974,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0624,22392,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,CEC
+NCV-0625,101131,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2024,SWEVC
+NCV-0626,59385,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0627,101015,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0628,8913,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ASOC
+NCV-0629,49765,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0630,68232,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0632,59389,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0633,98181,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0635,37895,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,ESWA
+NCV-0636,45454,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2024,ESWA
+NCV-0637,104017,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0640,98193,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0641,46333,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0642,41377,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0643,59376,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2024,EVOINT
+NCV-0645,100097,other,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,SWARMINT
+NCV-0646,21546,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0647,21940,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,CEC
+NCV-0648,100734,hybrid,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0650,101285,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0651,104300,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0654,101516,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,SWEVC
+NCV-0655,60001,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,EVOINT
+NCV-0656,43006,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0657,98038,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0658,104301,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0659,59936,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2021,EVOINT
+NCV-0660,98163,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0661,98349,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0662,97496,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0663,36515,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,ESWA
+NCV-0664,98123,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0665,82027,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2022,INS
+NCV-0667,104829,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,TEVC
+NCV-0669,59544,dl_native,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,EVOINT
+NCV-0670,47831,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0671,98027,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0672,70495,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,GPEM
+NCV-0673,21601,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,CEC
+NCV-0675,44045,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0676,104739,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,TEVC
+NCV-0677,59379,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0678,39261,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0679,98075,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0680,98246,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0681,69655,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0682,49297,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0683,100891,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,SWEVC
+NCV-0685,24269,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,EMO
+NCV-0686,68398,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,GECCO
+NCV-0687,67777,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0688,68832,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,GECCO
+NCV-0690,104765,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,TEVC
+NCV-0691,100651,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,SWEVC
+NCV-0693,98177,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0694,97526,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0696,24237,dl_native,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,EMO
+NCV-0697,100709,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0698,68038,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0699,22007,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,CEC
+NCV-0700,57756,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,EVOAPP
+NCV-0702,56935,dl_native,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,EUROGP
+NCV-0703,7807,hybrid,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ASOC
+NCV-0704,67988,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0705,98230,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0706,93,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,ACMTELO
+NCV-0707,97955,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0709,21655,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0710,91032,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,MEMETIC
+NCV-0711,97557,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0713,59879,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2022,EVOINT
+NCV-0714,98010,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0716,69026,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,GECCO
+NCV-0717,101779,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,SWEVC
+NCV-0718,70472,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,GPEM
+NCV-0719,70190,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2021,GECCO
+NCV-0720,69131,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,GECCO
+NCV-0721,67788,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0722,69001,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,GECCO
+NCV-0723,9180,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2022,ASOC
+NCV-0724,104492,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,TEVC
+NCV-0725,97999,hybrid,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0727,98087,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0728,97510,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0729,98312,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0730,69570,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,GECCO
+NCV-0731,11664,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ASOC
+NCV-0732,103804,other,,role,Mixed journals|enriched,2156,50,0.023191094619666,2022,TETCI
+NCV-0734,91154,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,MEMETIC
+NCV-0735,21449,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,CEC
+NCV-0736,101596,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,SWEVC
+NCV-0738,85054,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,INS
+NCV-0739,43252,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0741,104412,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,TEVC
+NCV-0742,97977,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0743,7491,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ASOC
+NCV-0744,97879,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0746,97718,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0747,9963,hybrid,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ASOC
+NCV-0748,97855,neuroevolution,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0749,100164,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,SWARMINT
+NCV-0750,68483,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0752,97489,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0753,21859,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,CEC
+NCV-0755,57637,hybrid,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,EVOAPP
+NCV-0756,69209,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,GECCO
+NCV-0758,97606,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0759,104335,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0760,41737,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0761,43372,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0763,67996,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0764,40716,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0765,68029,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0766,47478,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0767,104344,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0768,6972,hybrid,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ASOC
+NCV-0769,104659,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,TEVC
+NCV-0770,69240,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0771,39170,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0772,69852,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0773,97788,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0774,104149,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0775,98097,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0776,82498,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,INS
+NCV-0777,39704,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0778,83244,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,INS
+NCV-0779,21793,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0780,90095,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,JOH
+NCV-0781,70908,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,ICSI
+NCV-0782,68792,hybrid,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,GECCO
+NCV-0783,69489,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0785,85695,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,INS
+NCV-0786,91069,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,MEMETIC
+NCV-0788,97940,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0789,92426,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,PPSN
+NCV-0790,104432,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0791,68229,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0793,37034,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ESWA
+NCV-0794,49486,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,ESWA
+NCV-0795,21302,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,CEC
+NCV-0796,46139,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0797,69070,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0798,22402,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,CEC
+NCV-0799,98171,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0800,100820,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0801,21695,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,CEC
+NCV-0802,82384,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,INS
+NCV-0803,59571,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,EVOINT
+NCV-0804,97888,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0805,101512,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,SWEVC
+NCV-0807,97764,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0808,68188,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2025,GECCO
+NCV-0810,24341,neuroevolution,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,EMO
+NCV-0811,97695,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0812,97535,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0813,100864,hybrid,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0815,43629,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0818,98271,neuroevolution,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0819,97633,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0820,82977,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,INS
+NCV-0821,68565,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2024,GECCO
+NCV-0822,97577,neuroevolution,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0823,59349,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,EVOINT
+NCV-0825,59781,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2022,EVOINT
+NCV-0826,97699,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0827,45498,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0828,44490,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2024,ESWA
+NCV-0829,91060,dl_native,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,MEMETIC
+NCV-0830,97733,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0831,41106,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0832,44521,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0835,67930,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0836,7780,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2022,ASOC
+NCV-0839,104639,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,TEVC
+NCV-0841,9257,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ASOC
+NCV-0842,97796,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0843,57879,dl_native,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2021,EVOAPP
+NCV-0844,42544,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0845,98215,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0846,85415,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,INS
+NCV-0847,103723,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2022,TETCI
+NCV-0848,67827,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0849,45508,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0851,98170,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0852,85756,hybrid,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,INS
+NCV-0854,88011,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,INS
+NCV-0855,10051,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ASOC
+NCV-0856,59901,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,EVOINT
+NCV-0857,101340,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0858,104338,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0859,88228,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,INS
+NCV-0860,43538,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0861,98066,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0862,101397,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,SWEVC
+NCV-0864,101279,neuroevolution,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,SWEVC
+NCV-0865,85523,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,INS
+NCV-0866,101400,other,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,SWEVC
+NCV-0867,98071,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0869,98260,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0871,104458,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,TEVC
+NCV-0872,69638,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2022,GECCO
+NCV-0873,42974,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0875,36992,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ESWA
+NCV-0876,100559,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0877,11067,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ASOC
+NCV-0878,42693,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0879,100886,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0880,97886,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0881,46657,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0882,8320,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ASOC
+NCV-0884,67902,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0885,59436,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2024,EVOINT
+NCV-0887,91111,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,MEMETIC
+NCV-0888,98173,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0889,69599,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0890,36181,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2021,ESWA
+NCV-0891,101169,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,SWEVC
+NCV-0892,23850,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,ECJ
+NCV-0893,69391,neuroevolution,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0894,11969,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2024,ASOC
+NCV-0896,84538,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,INS
+NCV-0898,7768,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ASOC
+NCV-0899,9097,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,ASOC
+NCV-0900,97756,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0902,97984,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0903,97836,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0904,40135,hybrid,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0905,98056,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0907,98286,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0908,98292,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0910,97996,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0911,97858,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0914,69151,other,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,GECCO
+NCV-0915,21377,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,CEC
+NCV-0916,69869,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0917,59902,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,EVOINT
+NCV-0918,21437,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,CEC
+NCV-0919,101799,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,SWEVC
+NCV-0923,97727,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0925,82425,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,INS
+NCV-0926,40131,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2022,ESWA
+NCV-0927,98104,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0928,97969,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0929,68516,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,GECCO
+NCV-0930,104565,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,TEVC
+NCV-0931,91496,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,NATCOMP
+NCV-0932,45663,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0933,104544,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2024,TEVC
+NCV-0934,47742,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,ESWA
+NCV-0935,68238,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0936,86709,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,INS
+NCV-0937,92394,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2024,PPSN
+NCV-0938,101502,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2022,SWEVC
+NCV-0939,59636,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2023,EVOINT
+NCV-0940,104355,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0941,69612,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0942,97965,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0944,69398,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0945,23855,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,ECJ
+NCV-0946,69062,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0947,69392,hybrid,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,GECCO
+NCV-0948,100879,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0949,59402,other,,role,Core EC journals|enriched,194,50,0.2577319587628865,2025,EVOINT
+NCV-0950,98268,dl_native,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2021,SSCI
+NCV-0951,97720,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0952,68997,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0953,9803,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,ASOC
+NCV-0954,69429,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0956,84156,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,INS
+NCV-0957,98279,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0958,70308,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2021,GECCO
+NCV-0959,10921,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ASOC
+NCV-0960,69060,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2023,GECCO
+NCV-0961,59396,dl_native,,role,Core EC journals|enriched,194,50,0.2577319587628865,2024,EVOINT
+NCV-0962,48520,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0963,68076,neuroevolution,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2025,GECCO
+NCV-0964,11950,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ASOC
+NCV-0965,97651,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0966,57875,neuroevolution,,role,Core EC conferences|enriched,332,50,0.1506024096385542,2021,EVOAPP
+NCV-0967,98299,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2021,SSCI
+NCV-0969,60054,dl_native,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,EVOINT
+NCV-0970,48,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,ACMTELO
+NCV-0971,69677,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2022,GECCO
+NCV-0972,69344,other,,role,Core EC conferences|ordinary,3953,150,0.0379458639008348,2023,GECCO
+NCV-0973,102,hybrid,,role,Core EC journals|enriched,194,50,0.2577319587628865,2022,ACMTELO
+NCV-0975,59925,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2021,EVOINT
+NCV-0977,7397,other,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ASOC
+NCV-0978,97629,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2023,SSCI
+NCV-0980,97765,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2023,SSCI
+NCV-0981,100960,hybrid,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,SWEVC
+NCV-0982,36978,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2021,ESWA
+NCV-0983,47893,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2025,ESWA
+NCV-0985,104176,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,TEVC
+NCV-0986,86126,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,INS
+NCV-0987,104690,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,TEVC
+NCV-0988,97840,dl_native,,role,SSCI (mixed conf.)|enriched,88,50,0.5681818181818182,2022,SSCI
+NCV-0989,86152,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,INS
+NCV-0990,101364,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2023,SWEVC
+NCV-0993,42742,dl_native,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,ESWA
+NCV-0995,97925,other,,role,SSCI (mixed conf.)|ordinary,605,150,0.2479338842975206,2022,SSCI
+NCV-0996,49006,dl_native,,role,Mixed journals|enriched,2156,50,0.023191094619666,2025,ESWA
+NCV-0997,44145,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2024,ESWA
+NCV-0998,59172,other,,role,Core EC journals|ordinary,2716,150,0.0552282768777614,2025,EVOINT
+NCV-0999,91551,other,,role,Mixed journals|ordinary,18089,150,0.0082923323566808,2023,NATCOMP
+NCV-1000,42922,hybrid,,role,Mixed journals|enriched,2156,50,0.023191094619666,2023,ESWA

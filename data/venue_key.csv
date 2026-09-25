@@ -1,0 +1,28 @@
+venue_abbr,venue_name,group
+TEVC,IEEE Transactions on Evolutionary Computation,Core EC journals
+ECJ,Evolutionary Computation,Core EC journals
+SWEVC,Swarm and Evolutionary Computation,Core EC journals
+EVOINT,Evolutionary Intelligence,Core EC journals
+GPEM,Genetic Programming and Evolvable Machines,Core EC journals
+MEMETIC,Memetic Computing,Core EC journals
+SWARMINT,Swarm Intelligence,Core EC journals
+ACMTELO,ACM Transactions on Evolutionary Learning and Optimization,Core EC journals
+ESWA,Expert Systems with Applications,Mixed journals
+INS,Information Sciences,Mixed journals
+ASOC,Applied Soft Computing,Mixed journals
+TETCI,IEEE Transactions on Emerging Topics in Computational Intelligence,Mixed journals
+CIM,IEEE Computational Intelligence Magazine,Mixed journals
+SOFTCOMP,Soft Computing,Mixed journals
+NATCOMP,Natural Computing,Mixed journals
+JOH,Journal of Heuristics,Mixed journals
+IJBIC,International Journal of Bio-Inspired Computation,Mixed journals
+CEC,IEEE Congress on Evolutionary Computation,Core EC conferences
+GECCO,Genetic and Evolutionary Computation Conference,Core EC conferences
+PPSN,Parallel Problem Solving from Nature,Core EC conferences
+EMO,Evolutionary Multi-Criterion Optimization,Core EC conferences
+EUROGP,European Conference on Genetic Programming,Core EC conferences
+EVOAPP,Applications of Evolutionary Computation,Core EC conferences
+EVOCOP,European Conference on Evolutionary Computation in Combinatorial Optimization,Core EC conferences
+FOGA,Foundations of Genetic Algorithms,Core EC conferences
+ICSI,International Conference on Swarm Intelligence,Core EC conferences
+SSCI,IEEE Symposium Series on Computational Intelligence,SSCI (mixed conf.)

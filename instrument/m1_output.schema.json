@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Historical M1/M2 instructed response shape",
+  "description": "The instructed JSON shape; the frozen parser documents the more permissive normalization actually used.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["contribution_primary", "contribution_secondary", "algorithms", "problems", "llm_related"],
+  "properties": {
+    "contribution_primary": {"enum": ["propose_new", "improve", "apply", "hybrid", "theory", "benchmark", "review", "other"]},
+    "contribution_secondary": {"enum": [null, "propose_new", "improve", "apply", "hybrid", "theory", "benchmark", "review", "other"]},
+    "algorithms": {"type": "array", "items": {"$ref": "#/$defs/entity"}},
+    "problems": {"type": "array", "items": {"$ref": "#/$defs/entity"}},
+    "llm_related": {"type": "boolean"}
+  },
+  "$defs": {
+    "entity": {
+      "type": "object", "required": ["raw", "norm"], "additionalProperties": false,
+      "properties": {"raw": {"type": "string"}, "norm": {"type": "string"}}
+    }
+  }
+}

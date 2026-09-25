@@ -1,0 +1,54 @@
+{
+  "source_sha256": "2256bdf4bb7620c7f3f7ccb986d397ce4226c59be68f17bcfcee4a292ef1e851",
+  "topic_order": "first matching application pattern; otherwise unclassified",
+  "TOPICS": [
+    [
+      "Fault/prognosis machinery",
+      "fault|prognos|bearing|machinery|defect"
+    ],
+    [
+      "Forecasting & prediction",
+      "time series|wind power|wind speed|electric load|stock price|demand forecast|photovoltaic|weather"
+    ],
+    [
+      "Image & vision",
+      "\\bimage\\b|visual|object detect|segmentation|video|camera|remote sensing"
+    ],
+    [
+      "Medical & bio",
+      "medical|disease|clinic|tumou?r|cancer|\\bgenes?\\b|gene expression|health|\\beeg\\b|\\becg\\b|\\bmri\\b|brain|drug|protein"
+    ],
+    [
+      "NLP & text",
+      "natural language|text class|text mining|sentiment|news|document|speech|translation"
+    ],
+    [
+      "Security & anomaly",
+      "intrusion|cyber attack|malware|fraud|spam|network security"
+    ],
+    [
+      "Scheduling & routing",
+      "schedul|routing|vehicle|job shop|flow shop"
+    ],
+    [
+      "IoT, networks & systems",
+      "internet of things|\\biot\\b|sensor network|wireless|communication network|computer network|\\b5g\\b"
+    ],
+    [
+      "Control & robotics",
+      "control system|robot|navigation|autonomous vehicle|drone|\\buav\\b"
+    ]
+  ],
+  "DL": {
+    "regex": "\\bdeep learning\\b|\\bdeep neural|\\bconvolutional neural|\\blstm\\b|\\btransformer\\b|\\bgenerative adversarial|\\bgraph neural",
+    "flags": "re.IGNORECASE"
+  },
+  "LLM": {
+    "regex": "\\blarge language model|\\bllm\\b|\\bgpt\\b|chatgpt|prompt engineering|foundation model|\\bllama\\b|\\bchatglm\\b",
+    "flags": "re.IGNORECASE"
+  },
+  "EXT": {
+    "regex": "autoencoder|resnet|u-?net|\\bbert\\b|diffusion model|neural network",
+    "flags": "re.IGNORECASE"
+  }
+}
