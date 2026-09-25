@@ -3,9 +3,10 @@
 Public companion archive for the revised study of neural-network roles and
 contribution patterns in 27 evolutionary-computation and neighbouring venues.
 This is a venue-defined corpus, not a census of global evolutionary-computation
-research. The current manuscript title is **Expert-calibrated language models
-reveal what keyword counts miss about neural-method diffusion** (set by the
-responsible author on 2026-09-25), also recorded in `CITATION.cff`. This
+research. The current manuscript title is **Screening omissions and
+methodological role reshape measured neural-method diffusion in evolutionary
+computation** (set by the responsible author on 2026-09-25), also recorded in
+`CITATION.cff`. This
 package is hosted at https://github.com/Wenhua-Li/neural-method-diffusion;
 no separate archival DOI has been assigned yet.
 

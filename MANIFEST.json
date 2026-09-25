@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "generated_utc": "2026-09-25T13:25:48.430202+00:00",
+  "generated_utc": "2026-09-25T14:42:00.356633+00:00",
   "status": "complete",
   "inputs": [
     "analysis_papers.csv",
@@ -101,8 +101,8 @@
       "sha256": "00280e12bd8262dc98bdbdbdb5ab41a22f14928781f36c485847b987999c9475"
     },
     "CITATION.cff": {
-      "bytes": 785,
-      "sha256": "630f7bd9ccd75af39343f4963092ebcad2f4778cde37d0634668c00c4b580607"
+      "bytes": 802,
+      "sha256": "846f185214b8ba810603f29f434276a2d8c22281f923849ec3d1c5d65bf2a597"
     },
     "data/analysis_papers.csv": {
       "bytes": 27381858,
@@ -485,8 +485,8 @@
       "sha256": "9e57efef72157c1fca0ebc3e6b69c5e42a93ca61b6136545f98d76bc8aa30327"
     },
     "README.md": {
-      "bytes": 5504,
-      "sha256": "8c5370bca4d4566d506af5621fde54ac43ceca2017ca48c8d718c0d59b8799b9"
+      "bytes": 5521,
+      "sha256": "4210dd054c64ee1b992543d76e40d3bb57f2b869f43667b331f374893e415a0c"
     },
     "requirements.txt": {
       "bytes": 130,

@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite the associated paper."
-title: "Expert-calibrated language models reveal what keyword counts miss about neural-method diffusion: companion code and derived data"
+title: "Screening omissions and methodological role reshape measured neural-method diffusion in evolutionary computation: companion code and derived data"
 authors:
   - family-names: "Li"
     given-names: "Wenhua"
